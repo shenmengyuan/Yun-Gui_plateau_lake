@@ -1,0 +1,1547 @@
+a-DCL-1	 61314977	Cyanobacteria
+a-DCL-1	 12200013	Proteobacteria
+a-DCL-1	  2319693	Bacteroidetes
+a-DCL-1	   333376	Actinobacteria
+a-DCL-1	   328951	Planctomycetes
+a-DCL-1	   324002	Fusobacteria
+a-DCL-1	   315206	Firmicutes
+a-DCL-1	   198113	Chloroflexi
+a-DCL-1	   190174	Acidobacteria
+a-DCL-1	   188040	Armatimonadetes
+a-DCL-1	   179186	Verrucomicrobia
+a-DCL-1	   154792	Gemmatimonadetes
+a-DCL-1	   145410	Spirochaetes
+a-DCL-1	   110623	Euryarchaeota
+a-DCL-1	    87710	Nitrospirae
+a-DCL-1	    65434	Ignavibacteriae
+a-DCL-1	    25559	Candidatus Rokubacteria
+a-DCL-1	    23965	Candidatus Omnitrophica
+a-DCL-1	    16863	Lentisphaerae
+a-DCL-1	    15296	Chlamydiae
+a-DCL-1	    14730	Chlorobi
+a-DCL-1	    13950	Candidatus Melainabacteria
+a-DCL-1	    13130	Elusimicrobia
+a-DCL-1	    10740	Candidatus Bathyarchaeota
+a-DCL-1	     9167	Candidatus Aminicenantes
+a-DCL-1	     8933	candidate division NC10
+a-DCL-1	     5219	Tenericutes
+a-DCL-1	     5074	Candidatus Tectomicrobia
+a-DCL-1	     4844	candidate division Zixibacteria
+a-DCL-1	     4402	Balneolaeota
+a-DCL-1	     4023	Candidatus Kaiserbacteria
+a-DCL-1	     3822	Candidatus Nomurabacteria
+a-DCL-1	     3590	Thermotogae
+a-DCL-1	     3582	Synergistetes
+a-DCL-1	     3428	Candidatus Saccharibacteria
+a-DCL-1	     3303	Candidatus Cloacimonetes
+a-DCL-1	     3285	Nitrospinae
+a-DCL-1	     3252	Fibrobacteres
+a-DCL-1	     2956	Candidatus Woesearchaeota
+a-DCL-1	     2941	Candidatus Gottesmanbacteria
+a-DCL-1	     2928	Candidatus Peregrinibacteria
+a-DCL-1	     2775	Crenarchaeota
+a-DCL-1	     2722	Rhodothermaeota
+a-DCL-1	     2595	Candidatus Kapabacteria
+a-DCL-1	     2432	Aquificae
+a-DCL-1	     2326	Candidatus Marinimicrobia
+a-DCL-1	     2320	Candidatus Woesebacteria
+a-DCL-1	     2080	Thaumarchaeota
+a-DCL-1	     2046	Candidatus Margulisbacteria
+a-DCL-1	     2042	Calditrichaeota
+a-DCL-1	     1970	Candidatus Magasanikbacteria
+a-DCL-1	     1963	Deferribacteres
+a-DCL-1	     1963	Candidatus Roizmanbacteria
+a-DCL-1	     1888	Candidatus Riflebacteria
+a-DCL-1	     1676	Candidatus Parcubacteria
+a-DCL-1	     1624	Candidatus Thorarchaeota
+a-DCL-1	     1582	Candidatus Moranbacteria
+a-DCL-1	     1580	Candidatus Uhrbacteria
+a-DCL-1	     1539	Candidatus Handelsmanbacteria
+a-DCL-1	     1527	Candidatus Falkowbacteria
+a-DCL-1	     1507	Thermodesulfobacteria
+a-DCL-1	     1373	candidate division WWE3
+a-DCL-1	     1334	Candidatus Schekmanbacteria
+a-DCL-1	     1176	Candidatus Latescibacteria
+a-DCL-1	     1160	Candidatus Kryptonia
+a-DCL-1	     1151	Chrysiogenetes
+a-DCL-1	     1095	Candidatus Eisenbacteria
+a-DCL-1	     1057	Kiritimatiellaeota
+a-DCL-1	     1045	Candidatus Hydrogenedentes
+a-DCL-1	     1035	Candidatus Desantisbacteria
+a-DCL-1	     1023	Candidatus Raymondbacteria
+a-DCL-1	     1006	Candidatus Atribacteria
+a-DCL-1	      940	Candidatus Gracilibacteria
+a-DCL-1	      917	candidate division CPR3
+a-DCL-1	      899	Candidatus Lokiarchaeota
+a-DCL-1	      856	Candidatus Micrarchaeota
+a-DCL-1	      852	Candidatus Levybacteria
+a-DCL-1	      843	Candidatus Shapirobacteria
+a-DCL-1	      813	Candidatus Goldbacteria
+a-DCL-1	      810	Candidatus Nealsonbacteria
+a-DCL-1	      747	Candidatus Taylorbacteria
+a-DCL-1	      737	Candidatus Heimdallarchaeota
+a-DCL-1	      734	Candidatus Daviesbacteria
+a-DCL-1	      730	Candidatus Yanofskybacteria
+a-DCL-1	      723	Candidatus Fermentibacteria
+a-DCL-1	      710	Candidatus Lloydbacteria
+a-DCL-1	      709	Candidatus Fischerbacteria
+a-DCL-1	      699	Candidatus Doudnabacteria
+a-DCL-1	      682	Candidatus Staskawiczbacteria
+a-DCL-1	      677	Candidatus Pacebacteria
+a-DCL-1	      669	Candidatus Berkelbacteria
+a-DCL-1	      660	Candidatus Wallbacteria
+a-DCL-1	      651	Candidatus Edwardsbacteria
+a-DCL-1	      644	Candidatus Buchananbacteria
+a-DCL-1	      614	Candidatus Zambryskibacteria
+a-DCL-1	      588	Candidatus Wolfebacteria
+a-DCL-1	      580	Candidatus Firestonebacteria
+a-DCL-1	      576	Candidatus Dadabacteria
+a-DCL-1	      566	candidate division AD3
+a-DCL-1	      559	Candidatus Bipolaricaulota
+a-DCL-1	      556	Candidatus Glassbacteria
+a-DCL-1	      538	Candidatus Giovannonibacteria
+a-DCL-1	      538	Candidatus Lindowbacteria
+a-DCL-1	      536	Candidatus Beckwithbacteria
+a-DCL-1	      532	Candidatus Kerfeldbacteria
+a-DCL-1	      519	Candidatus Aerophobetes
+a-DCL-1	      497	Abditibacteriota
+a-DCL-1	      493	Candidatus Delongbacteria
+a-DCL-1	      449	Dictyoglomi
+a-DCL-1	      448	Candidatus Amesbacteria
+a-DCL-1	      436	Candidatus Wildermuthbacteria
+a-DCL-1	      382	Candidatus Curtissbacteria
+a-DCL-1	      343	Candidatus Portnoybacteria
+a-DCL-1	      332	Candidatus Kuenenbacteria
+a-DCL-1	      326	Candidatus Komeilibacteria
+a-DCL-1	      277	Candidatus Aenigmarchaeota
+a-DCL-1	      270	Candidatus Harrisonbacteria
+a-DCL-1	      261	Candidatus Azambacteria
+a-DCL-1	      252	Candidatus Liptonbacteria
+a-DCL-1	      246	Candidatus Colwellbacteria
+a-DCL-1	      244	Caldiserica
+a-DCL-1	      242	candidate division CPR1
+a-DCL-1	      242	Candidatus Collierbacteria
+a-DCL-1	      233	Candidatus Sungbacteria
+a-DCL-1	      221	Candidatus Vogelbacteria
+a-DCL-1	      221	Candidatus Wirthbacteria
+a-DCL-1	      218	Candidatus Yonathbacteria
+a-DCL-1	      215	Candidatus Ryanbacteria
+a-DCL-1	      214	Candidatus Campbellbacteria
+a-DCL-1	      213	Candidatus Jorgensenbacteria
+a-DCL-1	      212	Coprothermobacterota
+a-DCL-1	      210	Candidatus Odinarchaeota
+a-DCL-1	      206	Candidatus Woykebacteria
+a-DCL-1	      197	Candidatus Diapherotrites
+a-DCL-1	      192	Candidatus Marsarchaeota
+a-DCL-1	      180	Candidatus Adlerbacteria
+a-DCL-1	      179	Candidatus Andersenbacteria
+a-DCL-1	      168	Candidatus Korarchaeota
+a-DCL-1	      150	Candidatus Fraserbacteria
+a-DCL-1	      148	Candidatus Coatesbacteria
+a-DCL-1	      146	Candidatus Microgenomates
+a-DCL-1	      130	Candidatus Spechtbacteria
+a-DCL-1	      121	Candidatus Abawacabacteria
+a-DCL-1	      117	candidate division CPR2
+a-DCL-1	      107	Candidatus Tagabacteria
+a-DCL-1	      105	Candidatus Niyogibacteria
+a-DCL-1	       89	Candidatus Chisholmbacteria
+a-DCL-1	       86	Candidatus Terrybacteria
+a-DCL-1	       84	Candidatus Blackburnbacteria
+a-DCL-1	       68	Candidatus Brennerbacteria
+a-DCL-1	       60	Nanoarchaeota
+a-DCL-1	       60	Candidatus Parvarchaeota
+a-DCL-1	       17	Candidatus Jacksonbacteria
+a-DCL-1	        9	Candidatus Veblenbacteria
+a-DCL-1	        7	Candidatus Poribacteria
+a-DCL-2	 93220444	Cyanobacteria
+a-DCL-2	 16205598	Proteobacteria
+a-DCL-2	  8034416	Bacteroidetes
+a-DCL-2	  6197434	Actinobacteria
+a-DCL-2	  3020301	Planctomycetes
+a-DCL-2	   626616	Verrucomicrobia
+a-DCL-2	   508050	Gemmatimonadetes
+a-DCL-2	   447964	Firmicutes
+a-DCL-2	   374128	Acidobacteria
+a-DCL-2	   333513	Chloroflexi
+a-DCL-2	   150184	Spirochaetes
+a-DCL-2	   131245	Armatimonadetes
+a-DCL-2	   102299	Candidatus Kapabacteria
+a-DCL-2	    87999	Ignavibacteriae
+a-DCL-2	    76469	Chlorobi
+a-DCL-2	    72898	Euryarchaeota
+a-DCL-2	    47763	Nitrospirae
+a-DCL-2	    44045	Candidatus Rokubacteria
+a-DCL-2	    29989	Candidatus Omnitrophica
+a-DCL-2	    26383	Lentisphaerae
+a-DCL-2	    21005	Elusimicrobia
+a-DCL-2	    16515	Chlamydiae
+a-DCL-2	    13923	Balneolaeota
+a-DCL-2	    11461	Rhodothermaeota
+a-DCL-2	     9437	Candidatus Saccharibacteria
+a-DCL-2	     8290	Candidatus Aminicenantes
+a-DCL-2	     8010	candidate division NC10
+a-DCL-2	     7730	Candidatus Tectomicrobia
+a-DCL-2	     7655	Candidatus Melainabacteria
+a-DCL-2	     6682	Tenericutes
+a-DCL-2	     6372	Synergistetes
+a-DCL-2	     6027	Candidatus Peregrinibacteria
+a-DCL-2	     5918	candidate division Zixibacteria
+a-DCL-2	     5432	Fusobacteria
+a-DCL-2	     5245	Candidatus Wolfebacteria
+a-DCL-2	     4916	Candidatus Marinimicrobia
+a-DCL-2	     4826	Thermotogae
+a-DCL-2	     4768	Nitrospinae
+a-DCL-2	     4681	Candidatus Kaiserbacteria
+a-DCL-2	     4465	Aquificae
+a-DCL-2	     4190	Candidatus Cloacimonetes
+a-DCL-2	     4096	Candidatus Nomurabacteria
+a-DCL-2	     3999	Candidatus Magasanikbacteria
+a-DCL-2	     3896	candidate division WWE3
+a-DCL-2	     3838	Candidatus Nealsonbacteria
+a-DCL-2	     3835	Candidatus Parcubacteria
+a-DCL-2	     3687	Candidatus Roizmanbacteria
+a-DCL-2	     3678	Candidatus Woesebacteria
+a-DCL-2	     3576	Candidatus Falkowbacteria
+a-DCL-2	     3452	Fibrobacteres
+a-DCL-2	     3374	Candidatus Uhrbacteria
+a-DCL-2	     3359	Thaumarchaeota
+a-DCL-2	     3328	Deferribacteres
+a-DCL-2	     3294	Crenarchaeota
+a-DCL-2	     3235	Candidatus Moranbacteria
+a-DCL-2	     3010	Candidatus Margulisbacteria
+a-DCL-2	     2967	Candidatus Gottesmanbacteria
+a-DCL-2	     2744	Candidatus Wildermuthbacteria
+a-DCL-2	     2637	Candidatus Hydrogenedentes
+a-DCL-2	     2597	Candidatus Riflebacteria
+a-DCL-2	     2543	Kiritimatiellaeota
+a-DCL-2	     2510	Candidatus Handelsmanbacteria
+a-DCL-2	     2507	candidate division AD3
+a-DCL-2	     2343	Calditrichaeota
+a-DCL-2	     2329	Candidatus Kryptonia
+a-DCL-2	     2288	Thermodesulfobacteria
+a-DCL-2	     2138	Candidatus Bathyarchaeota
+a-DCL-2	     2032	Candidatus Woesearchaeota
+a-DCL-2	     1837	Candidatus Eisenbacteria
+a-DCL-2	     1821	candidate division CPR3
+a-DCL-2	     1795	Candidatus Schekmanbacteria
+a-DCL-2	     1794	Candidatus Lindowbacteria
+a-DCL-2	     1780	Candidatus Levybacteria
+a-DCL-2	     1778	Chrysiogenetes
+a-DCL-2	     1762	Candidatus Staskawiczbacteria
+a-DCL-2	     1743	Candidatus Taylorbacteria
+a-DCL-2	     1683	Candidatus Gracilibacteria
+a-DCL-2	     1460	Candidatus Yanofskybacteria
+a-DCL-2	     1400	Candidatus Zambryskibacteria
+a-DCL-2	     1365	Candidatus Raymondbacteria
+a-DCL-2	     1282	Candidatus Shapirobacteria
+a-DCL-2	     1267	Candidatus Dadabacteria
+a-DCL-2	     1239	Candidatus Daviesbacteria
+a-DCL-2	     1227	Candidatus Glassbacteria
+a-DCL-2	     1223	Abditibacteriota
+a-DCL-2	     1217	Candidatus Giovannonibacteria
+a-DCL-2	     1217	Candidatus Doudnabacteria
+a-DCL-2	     1178	Candidatus Beckwithbacteria
+a-DCL-2	     1148	Candidatus Desantisbacteria
+a-DCL-2	     1129	Candidatus Latescibacteria
+a-DCL-2	     1127	Candidatus Heimdallarchaeota
+a-DCL-2	      939	Candidatus Wallbacteria
+a-DCL-2	      934	Candidatus Kerfeldbacteria
+a-DCL-2	      899	Candidatus Pacebacteria
+a-DCL-2	      896	Candidatus Berkelbacteria
+a-DCL-2	      895	Candidatus Buchananbacteria
+a-DCL-2	      893	Candidatus Bipolaricaulota
+a-DCL-2	      893	Candidatus Atribacteria
+a-DCL-2	      882	Candidatus Fischerbacteria
+a-DCL-2	      852	Candidatus Firestonebacteria
+a-DCL-2	      808	Candidatus Harrisonbacteria
+a-DCL-2	      801	Candidatus Micrarchaeota
+a-DCL-2	      791	Candidatus Thorarchaeota
+a-DCL-2	      765	Candidatus Azambacteria
+a-DCL-2	      758	Candidatus Curtissbacteria
+a-DCL-2	      755	Candidatus Fermentibacteria
+a-DCL-2	      695	Candidatus Aerophobetes
+a-DCL-2	      602	Candidatus Vogelbacteria
+a-DCL-2	      597	Candidatus Campbellbacteria
+a-DCL-2	      569	Candidatus Amesbacteria
+a-DCL-2	      564	Candidatus Goldbacteria
+a-DCL-2	      555	Candidatus Edwardsbacteria
+a-DCL-2	      548	Candidatus Lloydbacteria
+a-DCL-2	      543	Candidatus Komeilibacteria
+a-DCL-2	      541	Candidatus Collierbacteria
+a-DCL-2	      502	Candidatus Portnoybacteria
+a-DCL-2	      488	Candidatus Yonathbacteria
+a-DCL-2	      452	Dictyoglomi
+a-DCL-2	      446	Candidatus Ryanbacteria
+a-DCL-2	      430	Candidatus Liptonbacteria
+a-DCL-2	      413	Candidatus Sungbacteria
+a-DCL-2	      409	Candidatus Delongbacteria
+a-DCL-2	      403	Candidatus Jorgensenbacteria
+a-DCL-2	      402	Candidatus Woykebacteria
+a-DCL-2	      397	Candidatus Terrybacteria
+a-DCL-2	      341	Candidatus Microgenomates
+a-DCL-2	      335	Candidatus Adlerbacteria
+a-DCL-2	      292	Candidatus Fraserbacteria
+a-DCL-2	      282	Candidatus Kuenenbacteria
+a-DCL-2	      277	Candidatus Blackburnbacteria
+a-DCL-2	      277	Candidatus Colwellbacteria
+a-DCL-2	      271	candidate division CPR1
+a-DCL-2	      266	Candidatus Niyogibacteria
+a-DCL-2	      263	Caldiserica
+a-DCL-2	      260	Candidatus Lokiarchaeota
+a-DCL-2	      228	Candidatus Coatesbacteria
+a-DCL-2	      224	Candidatus Spechtbacteria
+a-DCL-2	      208	Candidatus Poribacteria
+a-DCL-2	      200	Candidatus Andersenbacteria
+a-DCL-2	      184	candidate division CPR2
+a-DCL-2	      182	Candidatus Tagabacteria
+a-DCL-2	      180	Candidatus Marsarchaeota
+a-DCL-2	      175	Coprothermobacterota
+a-DCL-2	      173	Candidatus Diapherotrites
+a-DCL-2	      172	Candidatus Chisholmbacteria
+a-DCL-2	      166	Candidatus Wirthbacteria
+a-DCL-2	      165	Candidatus Korarchaeota
+a-DCL-2	      106	Candidatus Aenigmarchaeota
+a-DCL-2	      104	Candidatus Abawacabacteria
+a-DCL-2	       81	Candidatus Odinarchaeota
+a-DCL-2	       26	Candidatus Parvarchaeota
+a-DCL-2	       24	Candidatus Brennerbacteria
+a-DCL-2	       15	Candidatus Veblenbacteria
+a-DCL-2	        9	Candidatus Jacksonbacteria
+a-DCL-2	        7	Nanoarchaeota
+b-XYL-1	 26046402	Cyanobacteria
+b-XYL-1	 15915679	Proteobacteria
+b-XYL-1	  3944495	Bacteroidetes
+b-XYL-1	   981310	Firmicutes
+b-XYL-1	   659637	Gemmatimonadetes
+b-XYL-1	   400175	Spirochaetes
+b-XYL-1	   297420	Planctomycetes
+b-XYL-1	   242833	Actinobacteria
+b-XYL-1	   193889	Armatimonadetes
+b-XYL-1	   122743	Acidobacteria
+b-XYL-1	    89605	Verrucomicrobia
+b-XYL-1	    65234	Chloroflexi
+b-XYL-1	    31117	Euryarchaeota
+b-XYL-1	    28899	Nitrospirae
+b-XYL-1	    27195	Candidatus Rokubacteria
+b-XYL-1	    24217	Ignavibacteriae
+b-XYL-1	    23363	Chlamydiae
+b-XYL-1	    15270	Candidatus Melainabacteria
+b-XYL-1	    14081	Chlorobi
+b-XYL-1	    11287	Fusobacteria
+b-XYL-1	     8046	Elusimicrobia
+b-XYL-1	     7388	Candidatus Omnitrophica
+b-XYL-1	     6813	Lentisphaerae
+b-XYL-1	     5450	Balneolaeota
+b-XYL-1	     5028	Tenericutes
+b-XYL-1	     4896	Candidatus Tectomicrobia
+b-XYL-1	     4213	candidate division NC10
+b-XYL-1	     3967	Rhodothermaeota
+b-XYL-1	     2858	Synergistetes
+b-XYL-1	     2595	Candidatus Aminicenantes
+b-XYL-1	     2361	Candidatus Kaiserbacteria
+b-XYL-1	     2321	Crenarchaeota
+b-XYL-1	     2273	candidate division Zixibacteria
+b-XYL-1	     2179	Candidatus Peregrinibacteria
+b-XYL-1	     2083	Candidatus Saccharibacteria
+b-XYL-1	     2082	Aquificae
+b-XYL-1	     2047	Candidatus Bathyarchaeota
+b-XYL-1	     2028	Nitrospinae
+b-XYL-1	     2007	Candidatus Cloacimonetes
+b-XYL-1	     1993	Candidatus Woesearchaeota
+b-XYL-1	     1970	Thermotogae
+b-XYL-1	     1927	Fibrobacteres
+b-XYL-1	     1880	Thaumarchaeota
+b-XYL-1	     1703	Candidatus Marinimicrobia
+b-XYL-1	     1651	Candidatus Kapabacteria
+b-XYL-1	     1601	Deferribacteres
+b-XYL-1	     1499	Candidatus Magasanikbacteria
+b-XYL-1	     1432	Candidatus Raymondbacteria
+b-XYL-1	     1388	Candidatus Margulisbacteria
+b-XYL-1	     1339	Chrysiogenetes
+b-XYL-1	     1170	Candidatus Nomurabacteria
+b-XYL-1	     1086	Candidatus Gracilibacteria
+b-XYL-1	     1076	Candidatus Uhrbacteria
+b-XYL-1	     1052	Candidatus Falkowbacteria
+b-XYL-1	     1041	Candidatus Riflebacteria
+b-XYL-1	     1005	Candidatus Woesebacteria
+b-XYL-1	      996	Candidatus Roizmanbacteria
+b-XYL-1	      969	Thermodesulfobacteria
+b-XYL-1	      955	Candidatus Handelsmanbacteria
+b-XYL-1	      890	Candidatus Moranbacteria
+b-XYL-1	      852	Candidatus Nealsonbacteria
+b-XYL-1	      800	Calditrichaeota
+b-XYL-1	      775	Candidatus Gottesmanbacteria
+b-XYL-1	      762	Candidatus Parcubacteria
+b-XYL-1	      723	Candidatus Eisenbacteria
+b-XYL-1	      640	Candidatus Kryptonia
+b-XYL-1	      628	Candidatus Heimdallarchaeota
+b-XYL-1	      626	Candidatus Levybacteria
+b-XYL-1	      604	Candidatus Schekmanbacteria
+b-XYL-1	      584	candidate division WWE3
+b-XYL-1	      565	candidate division AD3
+b-XYL-1	      555	Kiritimatiellaeota
+b-XYL-1	      553	Candidatus Micrarchaeota
+b-XYL-1	      543	Candidatus Fischerbacteria
+b-XYL-1	      522	candidate division CPR3
+b-XYL-1	      518	Candidatus Latescibacteria
+b-XYL-1	      518	Candidatus Liptonbacteria
+b-XYL-1	      508	Candidatus Wildermuthbacteria
+b-XYL-1	      474	Candidatus Hydrogenedentes
+b-XYL-1	      469	Candidatus Thorarchaeota
+b-XYL-1	      454	Candidatus Yanofskybacteria
+b-XYL-1	      431	Candidatus Desantisbacteria
+b-XYL-1	      429	Candidatus Buchananbacteria
+b-XYL-1	      412	Candidatus Aerophobetes
+b-XYL-1	      409	Candidatus Dadabacteria
+b-XYL-1	      408	Candidatus Lokiarchaeota
+b-XYL-1	      405	Candidatus Atribacteria
+b-XYL-1	      394	Candidatus Lindowbacteria
+b-XYL-1	      394	Candidatus Taylorbacteria
+b-XYL-1	      382	Candidatus Doudnabacteria
+b-XYL-1	      379	Candidatus Daviesbacteria
+b-XYL-1	      374	Candidatus Berkelbacteria
+b-XYL-1	      359	Candidatus Wallbacteria
+b-XYL-1	      350	Abditibacteriota
+b-XYL-1	      346	Candidatus Fermentibacteria
+b-XYL-1	      343	Candidatus Kerfeldbacteria
+b-XYL-1	      341	Candidatus Edwardsbacteria
+b-XYL-1	      324	Candidatus Firestonebacteria
+b-XYL-1	      321	Candidatus Shapirobacteria
+b-XYL-1	      320	Candidatus Harrisonbacteria
+b-XYL-1	      314	Candidatus Andersenbacteria
+b-XYL-1	      296	Dictyoglomi
+b-XYL-1	      271	Candidatus Beckwithbacteria
+b-XYL-1	      268	Candidatus Zambryskibacteria
+b-XYL-1	      261	Candidatus Bipolaricaulota
+b-XYL-1	      261	Candidatus Azambacteria
+b-XYL-1	      258	Candidatus Glassbacteria
+b-XYL-1	      256	Candidatus Wolfebacteria
+b-XYL-1	      245	Candidatus Marsarchaeota
+b-XYL-1	      243	Candidatus Pacebacteria
+b-XYL-1	      243	Candidatus Giovannonibacteria
+b-XYL-1	      240	Candidatus Delongbacteria
+b-XYL-1	      232	Candidatus Staskawiczbacteria
+b-XYL-1	      225	Candidatus Goldbacteria
+b-XYL-1	      223	Candidatus Ryanbacteria
+b-XYL-1	      213	Candidatus Odinarchaeota
+b-XYL-1	      207	Candidatus Sungbacteria
+b-XYL-1	      206	Candidatus Amesbacteria
+b-XYL-1	      196	Candidatus Lloydbacteria
+b-XYL-1	      191	Candidatus Curtissbacteria
+b-XYL-1	      184	Candidatus Colwellbacteria
+b-XYL-1	      175	Candidatus Microgenomates
+b-XYL-1	      153	Candidatus Portnoybacteria
+b-XYL-1	      142	Candidatus Wirthbacteria
+b-XYL-1	      133	Candidatus Aenigmarchaeota
+b-XYL-1	      131	Candidatus Kuenenbacteria
+b-XYL-1	      129	Candidatus Yonathbacteria
+b-XYL-1	      124	Candidatus Terrybacteria
+b-XYL-1	      123	Candidatus Jorgensenbacteria
+b-XYL-1	      120	Candidatus Komeilibacteria
+b-XYL-1	      111	Candidatus Diapherotrites
+b-XYL-1	      105	Candidatus Woykebacteria
+b-XYL-1	       98	Candidatus Campbellbacteria
+b-XYL-1	       97	Coprothermobacterota
+b-XYL-1	       91	candidate division CPR1
+b-XYL-1	       88	Candidatus Fraserbacteria
+b-XYL-1	       84	Candidatus Adlerbacteria
+b-XYL-1	       78	Candidatus Vogelbacteria
+b-XYL-1	       71	Caldiserica
+b-XYL-1	       71	Candidatus Collierbacteria
+b-XYL-1	       67	Candidatus Spechtbacteria
+b-XYL-1	       62	Candidatus Coatesbacteria
+b-XYL-1	       61	Candidatus Korarchaeota
+b-XYL-1	       61	Candidatus Blackburnbacteria
+b-XYL-1	       57	candidate division CPR2
+b-XYL-1	       55	Candidatus Niyogibacteria
+b-XYL-1	       48	Nanoarchaeota
+b-XYL-1	       47	Candidatus Tagabacteria
+b-XYL-1	       44	Candidatus Abawacabacteria
+b-XYL-1	       44	Candidatus Chisholmbacteria
+b-XYL-1	       22	Candidatus Parvarchaeota
+b-XYL-1	        7	Candidatus Brennerbacteria
+b-XYL-1	        5	Candidatus Poribacteria
+b-XYL-1	        1	Candidatus Jacksonbacteria
+b-XYL-2	157171993	Cyanobacteria
+b-XYL-2	  9556218	Proteobacteria
+b-XYL-2	  3497890	Bacteroidetes
+b-XYL-2	  2972518	Actinobacteria
+b-XYL-2	   923037	Planctomycetes
+b-XYL-2	   291491	Firmicutes
+b-XYL-2	   247021	Armatimonadetes
+b-XYL-2	   223227	Acidobacteria
+b-XYL-2	   208907	Verrucomicrobia
+b-XYL-2	   192033	Gemmatimonadetes
+b-XYL-2	   177193	Chloroflexi
+b-XYL-2	    60109	Spirochaetes
+b-XYL-2	    34939	Candidatus Kapabacteria
+b-XYL-2	    33533	Euryarchaeota
+b-XYL-2	    30407	Nitrospirae
+b-XYL-2	    27072	Chlamydiae
+b-XYL-2	    25497	Chlorobi
+b-XYL-2	    21278	Candidatus Omnitrophica
+b-XYL-2	    20834	Ignavibacteriae
+b-XYL-2	    18726	Candidatus Rokubacteria
+b-XYL-2	    11534	Candidatus Saccharibacteria
+b-XYL-2	     8657	Lentisphaerae
+b-XYL-2	     8298	Elusimicrobia
+b-XYL-2	     5549	Balneolaeota
+b-XYL-2	     4716	Candidatus Tectomicrobia
+b-XYL-2	     3779	Candidatus Melainabacteria
+b-XYL-2	     3726	Synergistetes
+b-XYL-2	     3390	Rhodothermaeota
+b-XYL-2	     3070	Candidatus Marinimicrobia
+b-XYL-2	     2982	candidate division NC10
+b-XYL-2	     2959	Tenericutes
+b-XYL-2	     2902	candidate division CPR3
+b-XYL-2	     2784	Fusobacteria
+b-XYL-2	     2624	Crenarchaeota
+b-XYL-2	     2286	Thermotogae
+b-XYL-2	     2139	candidate division Zixibacteria
+b-XYL-2	     2131	Candidatus Peregrinibacteria
+b-XYL-2	     2044	Nitrospinae
+b-XYL-2	     1940	Candidatus Aminicenantes
+b-XYL-2	     1856	Candidatus Kaiserbacteria
+b-XYL-2	     1754	Aquificae
+b-XYL-2	     1730	Thaumarchaeota
+b-XYL-2	     1715	Candidatus Cloacimonetes
+b-XYL-2	     1523	Candidatus Wolfebacteria
+b-XYL-2	     1459	Candidatus Nomurabacteria
+b-XYL-2	     1427	Candidatus Uhrbacteria
+b-XYL-2	     1426	Candidatus Magasanikbacteria
+b-XYL-2	     1418	Candidatus Parcubacteria
+b-XYL-2	     1392	Fibrobacteres
+b-XYL-2	     1376	candidate division AD3
+b-XYL-2	     1187	Deferribacteres
+b-XYL-2	     1122	Candidatus Roizmanbacteria
+b-XYL-2	     1078	Candidatus Gottesmanbacteria
+b-XYL-2	     1049	Candidatus Handelsmanbacteria
+b-XYL-2	     1046	Candidatus Margulisbacteria
+b-XYL-2	     1018	candidate division WWE3
+b-XYL-2	      956	Candidatus Woesebacteria
+b-XYL-2	      952	Candidatus Falkowbacteria
+b-XYL-2	      922	Candidatus Bathyarchaeota
+b-XYL-2	      878	Candidatus Aerophobetes
+b-XYL-2	      865	Candidatus Hydrogenedentes
+b-XYL-2	      824	Chrysiogenetes
+b-XYL-2	      805	Candidatus Moranbacteria
+b-XYL-2	      790	Candidatus Nealsonbacteria
+b-XYL-2	      788	Candidatus Woesearchaeota
+b-XYL-2	      726	Thermodesulfobacteria
+b-XYL-2	      719	Kiritimatiellaeota
+b-XYL-2	      683	Candidatus Riflebacteria
+b-XYL-2	      681	Candidatus Staskawiczbacteria
+b-XYL-2	      679	Candidatus Kryptonia
+b-XYL-2	      670	Calditrichaeota
+b-XYL-2	      608	Candidatus Gracilibacteria
+b-XYL-2	      594	Candidatus Levybacteria
+b-XYL-2	      570	Candidatus Raymondbacteria
+b-XYL-2	      565	Candidatus Dadabacteria
+b-XYL-2	      552	Candidatus Eisenbacteria
+b-XYL-2	      526	Candidatus Beckwithbacteria
+b-XYL-2	      520	Candidatus Yanofskybacteria
+b-XYL-2	      501	Candidatus Schekmanbacteria
+b-XYL-2	      483	Candidatus Taylorbacteria
+b-XYL-2	      440	Candidatus Doudnabacteria
+b-XYL-2	      437	Candidatus Zambryskibacteria
+b-XYL-2	      436	Candidatus Giovannonibacteria
+b-XYL-2	      435	Candidatus Berkelbacteria
+b-XYL-2	      429	Candidatus Buchananbacteria
+b-XYL-2	      417	Candidatus Daviesbacteria
+b-XYL-2	      416	Candidatus Latescibacteria
+b-XYL-2	      411	Candidatus Desantisbacteria
+b-XYL-2	      393	Abditibacteriota
+b-XYL-2	      390	Candidatus Shapirobacteria
+b-XYL-2	      390	Candidatus Pacebacteria
+b-XYL-2	      382	Candidatus Lindowbacteria
+b-XYL-2	      360	Candidatus Kerfeldbacteria
+b-XYL-2	      357	Candidatus Glassbacteria
+b-XYL-2	      342	Candidatus Heimdallarchaeota
+b-XYL-2	      340	Candidatus Atribacteria
+b-XYL-2	      329	Candidatus Bipolaricaulota
+b-XYL-2	      317	Candidatus Wallbacteria
+b-XYL-2	      280	Candidatus Fischerbacteria
+b-XYL-2	      270	Candidatus Thorarchaeota
+b-XYL-2	      269	Candidatus Wildermuthbacteria
+b-XYL-2	      261	Candidatus Edwardsbacteria
+b-XYL-2	      259	Candidatus Fermentibacteria
+b-XYL-2	      259	Candidatus Micrarchaeota
+b-XYL-2	      254	Candidatus Firestonebacteria
+b-XYL-2	      253	Candidatus Sungbacteria
+b-XYL-2	      249	Dictyoglomi
+b-XYL-2	      234	Candidatus Azambacteria
+b-XYL-2	      222	Candidatus Liptonbacteria
+b-XYL-2	      220	Candidatus Harrisonbacteria
+b-XYL-2	      217	Candidatus Ryanbacteria
+b-XYL-2	      209	Candidatus Curtissbacteria
+b-XYL-2	      192	Candidatus Portnoybacteria
+b-XYL-2	      174	Candidatus Lloydbacteria
+b-XYL-2	      173	Candidatus Komeilibacteria
+b-XYL-2	      169	Candidatus Woykebacteria
+b-XYL-2	      168	Candidatus Jorgensenbacteria
+b-XYL-2	      166	Candidatus Goldbacteria
+b-XYL-2	      159	Candidatus Collierbacteria
+b-XYL-2	      155	Candidatus Delongbacteria
+b-XYL-2	      153	Candidatus Kuenenbacteria
+b-XYL-2	      151	Candidatus Microgenomates
+b-XYL-2	      147	Candidatus Terrybacteria
+b-XYL-2	      143	candidate division CPR1
+b-XYL-2	      140	Candidatus Vogelbacteria
+b-XYL-2	      137	Candidatus Niyogibacteria
+b-XYL-2	      132	Candidatus Yonathbacteria
+b-XYL-2	      131	Candidatus Amesbacteria
+b-XYL-2	      121	Candidatus Campbellbacteria
+b-XYL-2	      121	Candidatus Adlerbacteria
+b-XYL-2	      113	Candidatus Colwellbacteria
+b-XYL-2	       86	Candidatus Andersenbacteria
+b-XYL-2	       83	Coprothermobacterota
+b-XYL-2	       80	Caldiserica
+b-XYL-2	       78	Candidatus Lokiarchaeota
+b-XYL-2	       75	Candidatus Diapherotrites
+b-XYL-2	       70	Candidatus Fraserbacteria
+b-XYL-2	       70	Candidatus Chisholmbacteria
+b-XYL-2	       66	Candidatus Coatesbacteria
+b-XYL-2	       64	Candidatus Marsarchaeota
+b-XYL-2	       60	candidate division CPR2
+b-XYL-2	       58	Candidatus Tagabacteria
+b-XYL-2	       56	Candidatus Odinarchaeota
+b-XYL-2	       51	Candidatus Korarchaeota
+b-XYL-2	       51	Candidatus Aenigmarchaeota
+b-XYL-2	       48	Candidatus Spechtbacteria
+b-XYL-2	       47	Candidatus Wirthbacteria
+b-XYL-2	       44	Candidatus Abawacabacteria
+b-XYL-2	       39	Candidatus Blackburnbacteria
+b-XYL-2	       22	Candidatus Poribacteria
+b-XYL-2	        9	Candidatus Brennerbacteria
+b-XYL-2	        9	Candidatus Jacksonbacteria
+b-XYL-2	        7	Candidatus Parvarchaeota
+b-XYL-2	        5	Nanoarchaeota
+b-XYL-2	        2	Candidatus Veblenbacteria
+c-EL-1	 26088887	Proteobacteria
+c-EL-1	 12382675	Actinobacteria
+c-EL-1	  5099213	Cyanobacteria
+c-EL-1	  4866776	Planctomycetes
+c-EL-1	  3774737	Bacteroidetes
+c-EL-1	  2031196	Verrucomicrobia
+c-EL-1	  1271076	Firmicutes
+c-EL-1	   716542	Acidobacteria
+c-EL-1	   260709	Chloroflexi
+c-EL-1	   136043	Gemmatimonadetes
+c-EL-1	   131989	Ignavibacteriae
+c-EL-1	    76592	Euryarchaeota
+c-EL-1	    75525	Chlorobi
+c-EL-1	    74607	Spirochaetes
+c-EL-1	    73294	Nitrospirae
+c-EL-1	    56752	Candidatus Kapabacteria
+c-EL-1	    55219	Candidatus Rokubacteria
+c-EL-1	    52812	Lentisphaerae
+c-EL-1	    49007	Armatimonadetes
+c-EL-1	    47936	Candidatus Omnitrophica
+c-EL-1	    32140	Candidatus Saccharibacteria
+c-EL-1	    30014	Elusimicrobia
+c-EL-1	    25745	Chlamydiae
+c-EL-1	    15232	Fusobacteria
+c-EL-1	    12944	Candidatus Tectomicrobia
+c-EL-1	    12379	Candidatus Aminicenantes
+c-EL-1	    11736	Candidatus Melainabacteria
+c-EL-1	    11604	Balneolaeota
+c-EL-1	    11050	candidate division NC10
+c-EL-1	    10381	Candidatus Kaiserbacteria
+c-EL-1	    10029	Candidatus Kryptonia
+c-EL-1	     9371	Thermotogae
+c-EL-1	     8638	Rhodothermaeota
+c-EL-1	     8537	Tenericutes
+c-EL-1	     8255	candidate division Zixibacteria
+c-EL-1	     7361	Nitrospinae
+c-EL-1	     6851	Synergistetes
+c-EL-1	     6758	Candidatus Peregrinibacteria
+c-EL-1	     6728	Fibrobacteres
+c-EL-1	     6502	Crenarchaeota
+c-EL-1	     6245	Aquificae
+c-EL-1	     6216	Candidatus Cloacimonetes
+c-EL-1	     5857	Candidatus Parcubacteria
+c-EL-1	     5751	Candidatus Marinimicrobia
+c-EL-1	     5475	Thaumarchaeota
+c-EL-1	     5146	Kiritimatiellaeota
+c-EL-1	     5136	Candidatus Hydrogenedentes
+c-EL-1	     4377	Candidatus Magasanikbacteria
+c-EL-1	     4354	Candidatus Handelsmanbacteria
+c-EL-1	     4006	Candidatus Moranbacteria
+c-EL-1	     3998	Deferribacteres
+c-EL-1	     3881	Candidatus Margulisbacteria
+c-EL-1	     3863	Candidatus Bathyarchaeota
+c-EL-1	     3775	Candidatus Riflebacteria
+c-EL-1	     3720	candidate division WWE3
+c-EL-1	     3708	candidate division AD3
+c-EL-1	     3375	Candidatus Nomurabacteria
+c-EL-1	     3322	Calditrichaeota
+c-EL-1	     3276	Candidatus Eisenbacteria
+c-EL-1	     3273	Candidatus Roizmanbacteria
+c-EL-1	     3207	Candidatus Uhrbacteria
+c-EL-1	     3095	Thermodesulfobacteria
+c-EL-1	     3047	Candidatus Woesearchaeota
+c-EL-1	     2641	Candidatus Falkowbacteria
+c-EL-1	     2474	Candidatus Schekmanbacteria
+c-EL-1	     2426	Chrysiogenetes
+c-EL-1	     2307	Candidatus Gottesmanbacteria
+c-EL-1	     2164	Candidatus Lindowbacteria
+c-EL-1	     2144	Candidatus Taylorbacteria
+c-EL-1	     2024	Candidatus Latescibacteria
+c-EL-1	     2018	Candidatus Wolfebacteria
+c-EL-1	     1985	Candidatus Woesebacteria
+c-EL-1	     1950	Candidatus Dadabacteria
+c-EL-1	     1924	Abditibacteriota
+c-EL-1	     1923	Candidatus Desantisbacteria
+c-EL-1	     1809	Candidatus Levybacteria
+c-EL-1	     1807	Candidatus Yanofskybacteria
+c-EL-1	     1802	Candidatus Staskawiczbacteria
+c-EL-1	     1672	Candidatus Raymondbacteria
+c-EL-1	     1597	Candidatus Glassbacteria
+c-EL-1	     1546	Candidatus Bipolaricaulota
+c-EL-1	     1518	Candidatus Doudnabacteria
+c-EL-1	     1502	Candidatus Nealsonbacteria
+c-EL-1	     1419	Candidatus Giovannonibacteria
+c-EL-1	     1370	Candidatus Berkelbacteria
+c-EL-1	     1356	Candidatus Wallbacteria
+c-EL-1	     1329	Candidatus Daviesbacteria
+c-EL-1	     1323	Candidatus Heimdallarchaeota
+c-EL-1	     1315	Candidatus Gracilibacteria
+c-EL-1	     1264	Candidatus Edwardsbacteria
+c-EL-1	     1237	Candidatus Curtissbacteria
+c-EL-1	     1152	Dictyoglomi
+c-EL-1	     1138	Candidatus Thorarchaeota
+c-EL-1	     1093	Candidatus Atribacteria
+c-EL-1	     1075	Candidatus Micrarchaeota
+c-EL-1	     1065	Candidatus Goldbacteria
+c-EL-1	     1053	Candidatus Wildermuthbacteria
+c-EL-1	     1051	Candidatus Shapirobacteria
+c-EL-1	     1035	Candidatus Kerfeldbacteria
+c-EL-1	     1006	Candidatus Zambryskibacteria
+c-EL-1	      990	Candidatus Firestonebacteria
+c-EL-1	      966	Candidatus Pacebacteria
+c-EL-1	      907	Candidatus Fermentibacteria
+c-EL-1	      864	Candidatus Campbellbacteria
+c-EL-1	      840	Candidatus Buchananbacteria
+c-EL-1	      839	Candidatus Marsarchaeota
+c-EL-1	      804	Candidatus Komeilibacteria
+c-EL-1	      752	Candidatus Sungbacteria
+c-EL-1	      745	Candidatus Beckwithbacteria
+c-EL-1	      696	Candidatus Ryanbacteria
+c-EL-1	      661	Candidatus Jorgensenbacteria
+c-EL-1	      661	Candidatus Fischerbacteria
+c-EL-1	      660	Candidatus Harrisonbacteria
+c-EL-1	      634	Candidatus Lloydbacteria
+c-EL-1	      633	Candidatus Delongbacteria
+c-EL-1	      632	Candidatus Aerophobetes
+c-EL-1	      623	Candidatus Lokiarchaeota
+c-EL-1	      618	Candidatus Portnoybacteria
+c-EL-1	      614	Candidatus Woykebacteria
+c-EL-1	      610	Candidatus Liptonbacteria
+c-EL-1	      591	Candidatus Amesbacteria
+c-EL-1	      567	candidate division CPR3
+c-EL-1	      546	Candidatus Colwellbacteria
+c-EL-1	      525	Candidatus Coatesbacteria
+c-EL-1	      503	Candidatus Adlerbacteria
+c-EL-1	      493	Candidatus Yonathbacteria
+c-EL-1	      478	Candidatus Azambacteria
+c-EL-1	      468	Candidatus Vogelbacteria
+c-EL-1	      437	Candidatus Diapherotrites
+c-EL-1	      420	Caldiserica
+c-EL-1	      386	candidate division CPR2
+c-EL-1	      385	candidate division CPR1
+c-EL-1	      373	Candidatus Korarchaeota
+c-EL-1	      373	Candidatus Kuenenbacteria
+c-EL-1	      365	Candidatus Microgenomates
+c-EL-1	      358	Candidatus Andersenbacteria
+c-EL-1	      355	Candidatus Terrybacteria
+c-EL-1	      330	Candidatus Collierbacteria
+c-EL-1	      304	Candidatus Poribacteria
+c-EL-1	      274	Candidatus Spechtbacteria
+c-EL-1	      264	Candidatus Fraserbacteria
+c-EL-1	      258	Coprothermobacterota
+c-EL-1	      252	Candidatus Wirthbacteria
+c-EL-1	      241	Candidatus Niyogibacteria
+c-EL-1	      231	Candidatus Blackburnbacteria
+c-EL-1	      221	Candidatus Aenigmarchaeota
+c-EL-1	      209	Candidatus Odinarchaeota
+c-EL-1	      196	Candidatus Tagabacteria
+c-EL-1	      158	Candidatus Abawacabacteria
+c-EL-1	      153	Candidatus Chisholmbacteria
+c-EL-1	      119	Nanoarchaeota
+c-EL-1	      104	Candidatus Parvarchaeota
+c-EL-1	       39	Candidatus Veblenbacteria
+c-EL-1	       38	Candidatus Brennerbacteria
+c-EL-1	       26	Candidatus Jacksonbacteria
+c-EL-2	 23208201	Proteobacteria
+c-EL-2	 22112859	Actinobacteria
+c-EL-2	 16558761	Cyanobacteria
+c-EL-2	  7365877	Bacteroidetes
+c-EL-2	  3664295	Planctomycetes
+c-EL-2	  3224780	Verrucomicrobia
+c-EL-2	  1020063	Chloroflexi
+c-EL-2	   827619	Firmicutes
+c-EL-2	   543447	Acidobacteria
+c-EL-2	   302402	Gemmatimonadetes
+c-EL-2	   141137	Candidatus Kapabacteria
+c-EL-2	   112553	Chlorobi
+c-EL-2	   102242	Euryarchaeota
+c-EL-2	    87311	Spirochaetes
+c-EL-2	    81670	Ignavibacteriae
+c-EL-2	    77333	Candidatus Rokubacteria
+c-EL-2	    74951	Nitrospirae
+c-EL-2	    72681	Chlamydiae
+c-EL-2	    45796	Lentisphaerae
+c-EL-2	    45318	Armatimonadetes
+c-EL-2	    38405	Candidatus Omnitrophica
+c-EL-2	    35375	Elusimicrobia
+c-EL-2	    28790	Candidatus Melainabacteria
+c-EL-2	    21438	Candidatus Tectomicrobia
+c-EL-2	    17394	Balneolaeota
+c-EL-2	    14460	Synergistetes
+c-EL-2	    14222	Tenericutes
+c-EL-2	    12876	Fusobacteria
+c-EL-2	    11645	Rhodothermaeota
+c-EL-2	    11007	Thermotogae
+c-EL-2	    10917	candidate division NC10
+c-EL-2	    10257	Candidatus Marinimicrobia
+c-EL-2	    10178	Candidatus Peregrinibacteria
+c-EL-2	     9828	Nitrospinae
+c-EL-2	     9355	Crenarchaeota
+c-EL-2	     8917	Candidatus Margulisbacteria
+c-EL-2	     8844	candidate division WWE3
+c-EL-2	     8711	Candidatus Cloacimonetes
+c-EL-2	     8638	candidate division Zixibacteria
+c-EL-2	     7949	Aquificae
+c-EL-2	     7766	Candidatus Kaiserbacteria
+c-EL-2	     7614	Candidatus Aminicenantes
+c-EL-2	     7423	Thaumarchaeota
+c-EL-2	     7347	Candidatus Saccharibacteria
+c-EL-2	     6668	Fibrobacteres
+c-EL-2	     6436	Candidatus Handelsmanbacteria
+c-EL-2	     6126	Candidatus Magasanikbacteria
+c-EL-2	     5835	Deferribacteres
+c-EL-2	     5547	candidate division AD3
+c-EL-2	     5516	Candidatus Uhrbacteria
+c-EL-2	     5346	Candidatus Hydrogenedentes
+c-EL-2	     5306	Candidatus Aerophobetes
+c-EL-2	     4870	Kiritimatiellaeota
+c-EL-2	     4532	Candidatus Roizmanbacteria
+c-EL-2	     4520	Candidatus Woesebacteria
+c-EL-2	     4401	Candidatus Falkowbacteria
+c-EL-2	     4374	Candidatus Moranbacteria
+c-EL-2	     4168	Calditrichaeota
+c-EL-2	     4162	Thermodesulfobacteria
+c-EL-2	     3968	Candidatus Woesearchaeota
+c-EL-2	     3939	Candidatus Wolfebacteria
+c-EL-2	     3907	Candidatus Nomurabacteria
+c-EL-2	     3767	Candidatus Riflebacteria
+c-EL-2	     3761	Candidatus Gottesmanbacteria
+c-EL-2	     3657	Chrysiogenetes
+c-EL-2	     3546	Candidatus Staskawiczbacteria
+c-EL-2	     3391	Candidatus Schekmanbacteria
+c-EL-2	     3061	Candidatus Kryptonia
+c-EL-2	     3005	Candidatus Yanofskybacteria
+c-EL-2	     2929	Candidatus Bathyarchaeota
+c-EL-2	     2850	Candidatus Lindowbacteria
+c-EL-2	     2464	Candidatus Eisenbacteria
+c-EL-2	     2386	Candidatus Dadabacteria
+c-EL-2	     2273	Candidatus Levybacteria
+c-EL-2	     2169	Abditibacteriota
+c-EL-2	     2132	Candidatus Parcubacteria
+c-EL-2	     2106	Candidatus Bipolaricaulota
+c-EL-2	     2098	Candidatus Berkelbacteria
+c-EL-2	     2076	Candidatus Giovannonibacteria
+c-EL-2	     2064	Candidatus Daviesbacteria
+c-EL-2	     2031	Candidatus Shapirobacteria
+c-EL-2	     2012	Candidatus Doudnabacteria
+c-EL-2	     1967	Candidatus Nealsonbacteria
+c-EL-2	     1957	Candidatus Pacebacteria
+c-EL-2	     1893	Candidatus Beckwithbacteria
+c-EL-2	     1843	Candidatus Taylorbacteria
+c-EL-2	     1837	Candidatus Latescibacteria
+c-EL-2	     1798	Candidatus Desantisbacteria
+c-EL-2	     1685	Candidatus Heimdallarchaeota
+c-EL-2	     1682	Candidatus Thorarchaeota
+c-EL-2	     1635	Candidatus Buchananbacteria
+c-EL-2	     1615	Candidatus Atribacteria
+c-EL-2	     1598	Candidatus Gracilibacteria
+c-EL-2	     1549	Candidatus Raymondbacteria
+c-EL-2	     1537	Candidatus Kerfeldbacteria
+c-EL-2	     1491	Candidatus Wallbacteria
+c-EL-2	     1469	Candidatus Glassbacteria
+c-EL-2	     1443	Dictyoglomi
+c-EL-2	     1410	Candidatus Fermentibacteria
+c-EL-2	     1383	Candidatus Curtissbacteria
+c-EL-2	     1241	Candidatus Komeilibacteria
+c-EL-2	     1195	Candidatus Ryanbacteria
+c-EL-2	     1165	Candidatus Micrarchaeota
+c-EL-2	     1151	Candidatus Firestonebacteria
+c-EL-2	     1139	Candidatus Edwardsbacteria
+c-EL-2	     1075	Candidatus Goldbacteria
+c-EL-2	     1037	Candidatus Zambryskibacteria
+c-EL-2	      972	Candidatus Harrisonbacteria
+c-EL-2	      949	Candidatus Sungbacteria
+c-EL-2	      940	Candidatus Portnoybacteria
+c-EL-2	      926	Candidatus Yonathbacteria
+c-EL-2	      917	Candidatus Fischerbacteria
+c-EL-2	      884	Candidatus Azambacteria
+c-EL-2	      833	Candidatus Niyogibacteria
+c-EL-2	      831	Candidatus Lloydbacteria
+c-EL-2	      817	Candidatus Wildermuthbacteria
+c-EL-2	      796	Candidatus Amesbacteria
+c-EL-2	      761	Candidatus Woykebacteria
+c-EL-2	      733	Candidatus Liptonbacteria
+c-EL-2	      721	Candidatus Collierbacteria
+c-EL-2	      719	Candidatus Korarchaeota
+c-EL-2	      665	candidate division CPR1
+c-EL-2	      604	Candidatus Campbellbacteria
+c-EL-2	      595	Candidatus Lokiarchaeota
+c-EL-2	      590	Candidatus Microgenomates
+c-EL-2	      587	Candidatus Colwellbacteria
+c-EL-2	      585	Candidatus Kuenenbacteria
+c-EL-2	      584	Candidatus Jorgensenbacteria
+c-EL-2	      566	Candidatus Fraserbacteria
+c-EL-2	      566	Candidatus Andersenbacteria
+c-EL-2	      552	Caldiserica
+c-EL-2	      538	Candidatus Marsarchaeota
+c-EL-2	      535	Candidatus Vogelbacteria
+c-EL-2	      530	Candidatus Spechtbacteria
+c-EL-2	      465	Coprothermobacterota
+c-EL-2	      441	Candidatus Wirthbacteria
+c-EL-2	      432	candidate division CPR2
+c-EL-2	      397	Candidatus Coatesbacteria
+c-EL-2	      390	candidate division CPR3
+c-EL-2	      387	Candidatus Terrybacteria
+c-EL-2	      384	Candidatus Adlerbacteria
+c-EL-2	      384	Candidatus Delongbacteria
+c-EL-2	      355	Candidatus Odinarchaeota
+c-EL-2	      312	Candidatus Diapherotrites
+c-EL-2	      279	Candidatus Blackburnbacteria
+c-EL-2	      278	Candidatus Tagabacteria
+c-EL-2	      264	Candidatus Aenigmarchaeota
+c-EL-2	      233	Candidatus Chisholmbacteria
+c-EL-2	      228	Candidatus Abawacabacteria
+c-EL-2	      227	Candidatus Brennerbacteria
+c-EL-2	      143	Candidatus Poribacteria
+c-EL-2	       84	Candidatus Parvarchaeota
+c-EL-2	       46	Nanoarchaeota
+c-EL-2	       32	Candidatus Jacksonbacteria
+c-EL-2	       18	Candidatus Veblenbacteria
+d-FXL-1	 28800519	Proteobacteria
+d-FXL-1	 26673521	Actinobacteria
+d-FXL-1	 12326926	Bacteroidetes
+d-FXL-1	  7571480	Verrucomicrobia
+d-FXL-1	  1762283	Cyanobacteria
+d-FXL-1	   734978	Firmicutes
+d-FXL-1	   681355	Planctomycetes
+d-FXL-1	   141744	Acidobacteria
+d-FXL-1	   127251	Chloroflexi
+d-FXL-1	    78124	Euryarchaeota
+d-FXL-1	    49344	Gemmatimonadetes
+d-FXL-1	    49267	Spirochaetes
+d-FXL-1	    33035	Ignavibacteriae
+d-FXL-1	    30564	Nitrospirae
+d-FXL-1	    28166	Chlorobi
+d-FXL-1	    27654	Candidatus Rokubacteria
+d-FXL-1	    24621	Lentisphaerae
+d-FXL-1	    23084	Chlamydiae
+d-FXL-1	    18038	Elusimicrobia
+d-FXL-1	    17841	Armatimonadetes
+d-FXL-1	    15961	Candidatus Omnitrophica
+d-FXL-1	     9715	Balneolaeota
+d-FXL-1	     9372	Tenericutes
+d-FXL-1	     8617	Candidatus Kaiserbacteria
+d-FXL-1	     8579	Fusobacteria
+d-FXL-1	     7790	Synergistetes
+d-FXL-1	     7573	Candidatus Marinimicrobia
+d-FXL-1	     7125	Crenarchaeota
+d-FXL-1	     6061	Candidatus Tectomicrobia
+d-FXL-1	     6029	Candidatus Peregrinibacteria
+d-FXL-1	     5892	Thermotogae
+d-FXL-1	     5855	Rhodothermaeota
+d-FXL-1	     5696	Candidatus Magasanikbacteria
+d-FXL-1	     5450	Candidatus Wolfebacteria
+d-FXL-1	     5267	Thaumarchaeota
+d-FXL-1	     4856	Candidatus Melainabacteria
+d-FXL-1	     4658	Candidatus Kapabacteria
+d-FXL-1	     4637	Candidatus Uhrbacteria
+d-FXL-1	     4532	Candidatus Margulisbacteria
+d-FXL-1	     4103	Candidatus Yanofskybacteria
+d-FXL-1	     4079	Candidatus Kryptonia
+d-FXL-1	     4022	Fibrobacteres
+d-FXL-1	     3909	Aquificae
+d-FXL-1	     3736	Candidatus Aminicenantes
+d-FXL-1	     3731	Nitrospinae
+d-FXL-1	     3530	Candidatus Thorarchaeota
+d-FXL-1	     3426	Candidatus Falkowbacteria
+d-FXL-1	     3424	Candidatus Bathyarchaeota
+d-FXL-1	     3392	candidate division NC10
+d-FXL-1	     3355	Candidatus Cloacimonetes
+d-FXL-1	     3269	Candidatus Moranbacteria
+d-FXL-1	     3259	Candidatus Saccharibacteria
+d-FXL-1	     3175	Candidatus Woesebacteria
+d-FXL-1	     3149	candidate division Zixibacteria
+d-FXL-1	     3136	Candidatus Roizmanbacteria
+d-FXL-1	     2990	Deferribacteres
+d-FXL-1	     2759	candidate division WWE3
+d-FXL-1	     2747	candidate division AD3
+d-FXL-1	     2589	Kiritimatiellaeota
+d-FXL-1	     2583	Candidatus Nomurabacteria
+d-FXL-1	     2574	Candidatus Kerfeldbacteria
+d-FXL-1	     2531	Candidatus Gottesmanbacteria
+d-FXL-1	     2477	Candidatus Buchananbacteria
+d-FXL-1	     2249	Candidatus Woesearchaeota
+d-FXL-1	     2012	Candidatus Giovannonibacteria
+d-FXL-1	     1929	Candidatus Hydrogenedentes
+d-FXL-1	     1866	Candidatus Levybacteria
+d-FXL-1	     1631	Candidatus Pacebacteria
+d-FXL-1	     1585	Candidatus Parcubacteria
+d-FXL-1	     1578	Candidatus Daviesbacteria
+d-FXL-1	     1499	Thermodesulfobacteria
+d-FXL-1	     1413	Candidatus Riflebacteria
+d-FXL-1	     1378	Candidatus Heimdallarchaeota
+d-FXL-1	     1376	Calditrichaeota
+d-FXL-1	     1338	Chrysiogenetes
+d-FXL-1	     1321	candidate division CPR1
+d-FXL-1	     1245	Candidatus Handelsmanbacteria
+d-FXL-1	     1223	Candidatus Taylorbacteria
+d-FXL-1	     1201	Candidatus Lindowbacteria
+d-FXL-1	     1177	Candidatus Schekmanbacteria
+d-FXL-1	     1144	Candidatus Micrarchaeota
+d-FXL-1	     1131	Candidatus Gracilibacteria
+d-FXL-1	     1128	Candidatus Doudnabacteria
+d-FXL-1	     1102	Candidatus Berkelbacteria
+d-FXL-1	      996	Candidatus Jorgensenbacteria
+d-FXL-1	      996	Abditibacteriota
+d-FXL-1	      930	Candidatus Zambryskibacteria
+d-FXL-1	      888	Candidatus Latescibacteria
+d-FXL-1	      858	Candidatus Eisenbacteria
+d-FXL-1	      842	Candidatus Azambacteria
+d-FXL-1	      834	Candidatus Staskawiczbacteria
+d-FXL-1	      818	Candidatus Harrisonbacteria
+d-FXL-1	      798	Candidatus Dadabacteria
+d-FXL-1	      741	Candidatus Wallbacteria
+d-FXL-1	      708	Candidatus Wildermuthbacteria
+d-FXL-1	      706	Candidatus Desantisbacteria
+d-FXL-1	      688	Candidatus Aerophobetes
+d-FXL-1	      670	Candidatus Nealsonbacteria
+d-FXL-1	      667	Candidatus Bipolaricaulota
+d-FXL-1	      653	Candidatus Raymondbacteria
+d-FXL-1	      640	Candidatus Shapirobacteria
+d-FXL-1	      637	Candidatus Edwardsbacteria
+d-FXL-1	      631	Candidatus Firestonebacteria
+d-FXL-1	      620	Candidatus Sungbacteria
+d-FXL-1	      611	Candidatus Ryanbacteria
+d-FXL-1	      608	Candidatus Atribacteria
+d-FXL-1	      592	Candidatus Curtissbacteria
+d-FXL-1	      567	Candidatus Komeilibacteria
+d-FXL-1	      564	Candidatus Marsarchaeota
+d-FXL-1	      531	Candidatus Lloydbacteria
+d-FXL-1	      530	Candidatus Goldbacteria
+d-FXL-1	      520	Dictyoglomi
+d-FXL-1	      469	Candidatus Portnoybacteria
+d-FXL-1	      463	Coprothermobacterota
+d-FXL-1	      459	Candidatus Kuenenbacteria
+d-FXL-1	      456	Candidatus Collierbacteria
+d-FXL-1	      451	Candidatus Niyogibacteria
+d-FXL-1	      450	Candidatus Fermentibacteria
+d-FXL-1	      447	Candidatus Glassbacteria
+d-FXL-1	      410	Candidatus Vogelbacteria
+d-FXL-1	      400	Candidatus Beckwithbacteria
+d-FXL-1	      396	Candidatus Terrybacteria
+d-FXL-1	      392	Candidatus Liptonbacteria
+d-FXL-1	      376	Caldiserica
+d-FXL-1	      373	Candidatus Lokiarchaeota
+d-FXL-1	      360	Candidatus Colwellbacteria
+d-FXL-1	      333	Candidatus Adlerbacteria
+d-FXL-1	      321	Candidatus Campbellbacteria
+d-FXL-1	      319	Candidatus Korarchaeota
+d-FXL-1	      285	Candidatus Wirthbacteria
+d-FXL-1	      278	Candidatus Delongbacteria
+d-FXL-1	      276	Candidatus Chisholmbacteria
+d-FXL-1	      269	Candidatus Yonathbacteria
+d-FXL-1	      250	Candidatus Amesbacteria
+d-FXL-1	      248	Candidatus Aenigmarchaeota
+d-FXL-1	      241	Candidatus Diapherotrites
+d-FXL-1	      228	Candidatus Odinarchaeota
+d-FXL-1	      198	Candidatus Woykebacteria
+d-FXL-1	      194	Candidatus Fischerbacteria
+d-FXL-1	      180	candidate division CPR2
+d-FXL-1	      180	Candidatus Andersenbacteria
+d-FXL-1	      176	Candidatus Coatesbacteria
+d-FXL-1	      167	Candidatus Abawacabacteria
+d-FXL-1	      163	Candidatus Microgenomates
+d-FXL-1	      138	candidate division CPR3
+d-FXL-1	      135	Candidatus Tagabacteria
+d-FXL-1	      126	Candidatus Spechtbacteria
+d-FXL-1	       80	Candidatus Blackburnbacteria
+d-FXL-1	       67	Candidatus Parvarchaeota
+d-FXL-1	       66	Nanoarchaeota
+d-FXL-1	       51	Candidatus Jacksonbacteria
+d-FXL-1	       50	Candidatus Fraserbacteria
+d-FXL-1	       38	Candidatus Brennerbacteria
+d-FXL-1	       25	Candidatus Poribacteria
+d-FXL-1	        3	Candidatus Veblenbacteria
+d-FXL-2	 14204215	Proteobacteria
+d-FXL-2	 13725938	Actinobacteria
+d-FXL-2	  6483331	Cyanobacteria
+d-FXL-2	  3372730	Bacteroidetes
+d-FXL-2	  3050590	Planctomycetes
+d-FXL-2	  1281357	Verrucomicrobia
+d-FXL-2	   527676	Firmicutes
+d-FXL-2	   391842	Acidobacteria
+d-FXL-2	   388608	Chloroflexi
+d-FXL-2	   112972	Gemmatimonadetes
+d-FXL-2	    48318	Euryarchaeota
+d-FXL-2	    45715	Armatimonadetes
+d-FXL-2	    44626	Spirochaetes
+d-FXL-2	    40445	Nitrospirae
+d-FXL-2	    36763	Candidatus Rokubacteria
+d-FXL-2	    32037	Chlorobi
+d-FXL-2	    25442	Chlamydiae
+d-FXL-2	    25268	Ignavibacteriae
+d-FXL-2	    24310	Candidatus Kapabacteria
+d-FXL-2	    23304	Lentisphaerae
+d-FXL-2	    21432	Candidatus Omnitrophica
+d-FXL-2	    16535	Elusimicrobia
+d-FXL-2	    14632	Thermotogae
+d-FXL-2	    10889	Candidatus Melainabacteria
+d-FXL-2	    10430	Tenericutes
+d-FXL-2	    10247	Candidatus Tectomicrobia
+d-FXL-2	     9089	Candidatus Saccharibacteria
+d-FXL-2	     8689	Fusobacteria
+d-FXL-2	     7450	Candidatus Margulisbacteria
+d-FXL-2	     7252	Balneolaeota
+d-FXL-2	     5483	candidate division NC10
+d-FXL-2	     5428	Rhodothermaeota
+d-FXL-2	     5346	Candidatus Peregrinibacteria
+d-FXL-2	     5093	Candidatus Kaiserbacteria
+d-FXL-2	     5084	Nitrospinae
+d-FXL-2	     4953	Synergistetes
+d-FXL-2	     4683	Aquificae
+d-FXL-2	     4359	Candidatus Aminicenantes
+d-FXL-2	     3985	candidate division Zixibacteria
+d-FXL-2	     3969	Candidatus Marinimicrobia
+d-FXL-2	     3963	Fibrobacteres
+d-FXL-2	     3818	Candidatus Levybacteria
+d-FXL-2	     3435	Candidatus Magasanikbacteria
+d-FXL-2	     3360	Candidatus Hydrogenedentes
+d-FXL-2	     3314	candidate division WWE3
+d-FXL-2	     3260	Candidatus Cloacimonetes
+d-FXL-2	     3133	Candidatus Uhrbacteria
+d-FXL-2	     3093	Crenarchaeota
+d-FXL-2	     2947	candidate division AD3
+d-FXL-2	     2931	Thaumarchaeota
+d-FXL-2	     2898	Candidatus Nomurabacteria
+d-FXL-2	     2824	Kiritimatiellaeota
+d-FXL-2	     2712	Candidatus Taylorbacteria
+d-FXL-2	     2628	Deferribacteres
+d-FXL-2	     2597	Candidatus Roizmanbacteria
+d-FXL-2	     2539	Candidatus Handelsmanbacteria
+d-FXL-2	     2435	Candidatus Wolfebacteria
+d-FXL-2	     2178	Thermodesulfobacteria
+d-FXL-2	     2158	Candidatus Gracilibacteria
+d-FXL-2	     2153	Candidatus Falkowbacteria
+d-FXL-2	     2094	Candidatus Parcubacteria
+d-FXL-2	     1974	Chrysiogenetes
+d-FXL-2	     1956	Candidatus Woesebacteria
+d-FXL-2	     1917	Candidatus Riflebacteria
+d-FXL-2	     1824	Calditrichaeota
+d-FXL-2	     1754	Candidatus Moranbacteria
+d-FXL-2	     1753	Candidatus Zambryskibacteria
+d-FXL-2	     1639	Candidatus Kryptonia
+d-FXL-2	     1626	Abditibacteriota
+d-FXL-2	     1613	Candidatus Gottesmanbacteria
+d-FXL-2	     1596	Candidatus Yanofskybacteria
+d-FXL-2	     1516	Candidatus Woesearchaeota
+d-FXL-2	     1513	Candidatus Thorarchaeota
+d-FXL-2	     1486	Candidatus Schekmanbacteria
+d-FXL-2	     1467	Candidatus Lindowbacteria
+d-FXL-2	     1425	Candidatus Latescibacteria
+d-FXL-2	     1417	Candidatus Bathyarchaeota
+d-FXL-2	     1377	Candidatus Harrisonbacteria
+d-FXL-2	     1306	Candidatus Aerophobetes
+d-FXL-2	     1300	Candidatus Eisenbacteria
+d-FXL-2	     1291	Candidatus Dadabacteria
+d-FXL-2	     1255	Candidatus Wallbacteria
+d-FXL-2	     1154	Candidatus Giovannonibacteria
+d-FXL-2	     1135	Candidatus Doudnabacteria
+d-FXL-2	     1134	Candidatus Buchananbacteria
+d-FXL-2	     1112	Candidatus Campbellbacteria
+d-FXL-2	     1109	Candidatus Desantisbacteria
+d-FXL-2	     1091	Candidatus Bipolaricaulota
+d-FXL-2	     1075	Candidatus Heimdallarchaeota
+d-FXL-2	      922	Candidatus Pacebacteria
+d-FXL-2	      919	Candidatus Berkelbacteria
+d-FXL-2	      912	Candidatus Shapirobacteria
+d-FXL-2	      905	Candidatus Raymondbacteria
+d-FXL-2	      855	Candidatus Glassbacteria
+d-FXL-2	      818	Candidatus Daviesbacteria
+d-FXL-2	      787	Candidatus Staskawiczbacteria
+d-FXL-2	      765	Candidatus Atribacteria
+d-FXL-2	      716	Candidatus Nealsonbacteria
+d-FXL-2	      706	Candidatus Ryanbacteria
+d-FXL-2	      661	Candidatus Fermentibacteria
+d-FXL-2	      651	Candidatus Kerfeldbacteria
+d-FXL-2	      611	Candidatus Curtissbacteria
+d-FXL-2	      589	Candidatus Lloydbacteria
+d-FXL-2	      587	Candidatus Vogelbacteria
+d-FXL-2	      552	Candidatus Firestonebacteria
+d-FXL-2	      525	Candidatus Woykebacteria
+d-FXL-2	      523	Candidatus Edwardsbacteria
+d-FXL-2	      517	Candidatus Goldbacteria
+d-FXL-2	      513	Candidatus Wildermuthbacteria
+d-FXL-2	      512	Candidatus Liptonbacteria
+d-FXL-2	      509	Candidatus Yonathbacteria
+d-FXL-2	      500	Candidatus Sungbacteria
+d-FXL-2	      494	Dictyoglomi
+d-FXL-2	      474	Candidatus Amesbacteria
+d-FXL-2	      453	Candidatus Adlerbacteria
+d-FXL-2	      444	Candidatus Micrarchaeota
+d-FXL-2	      425	Candidatus Komeilibacteria
+d-FXL-2	      413	Candidatus Jorgensenbacteria
+d-FXL-2	      412	Candidatus Colwellbacteria
+d-FXL-2	      411	Candidatus Portnoybacteria
+d-FXL-2	      408	candidate division CPR1
+d-FXL-2	      383	Candidatus Beckwithbacteria
+d-FXL-2	      363	Candidatus Lokiarchaeota
+d-FXL-2	      354	Candidatus Azambacteria
+d-FXL-2	      341	candidate division CPR3
+d-FXL-2	      327	Candidatus Fischerbacteria
+d-FXL-2	      327	Candidatus Marsarchaeota
+d-FXL-2	      321	Candidatus Kuenenbacteria
+d-FXL-2	      319	Candidatus Poribacteria
+d-FXL-2	      307	Candidatus Andersenbacteria
+d-FXL-2	      282	Candidatus Niyogibacteria
+d-FXL-2	      279	Candidatus Terrybacteria
+d-FXL-2	      263	Candidatus Delongbacteria
+d-FXL-2	      251	Candidatus Fraserbacteria
+d-FXL-2	      250	Candidatus Korarchaeota
+d-FXL-2	      250	Candidatus Coatesbacteria
+d-FXL-2	      246	Coprothermobacterota
+d-FXL-2	      244	Caldiserica
+d-FXL-2	      223	Candidatus Collierbacteria
+d-FXL-2	      222	Candidatus Blackburnbacteria
+d-FXL-2	      218	candidate division CPR2
+d-FXL-2	      213	Candidatus Microgenomates
+d-FXL-2	      200	Candidatus Spechtbacteria
+d-FXL-2	      167	Candidatus Tagabacteria
+d-FXL-2	      166	Candidatus Wirthbacteria
+d-FXL-2	      165	Candidatus Odinarchaeota
+d-FXL-2	      140	Candidatus Abawacabacteria
+d-FXL-2	      139	Candidatus Chisholmbacteria
+d-FXL-2	      135	Candidatus Diapherotrites
+d-FXL-2	       83	Candidatus Aenigmarchaeota
+d-FXL-2	       63	Candidatus Brennerbacteria
+d-FXL-2	       47	Candidatus Parvarchaeota
+d-FXL-2	       40	Candidatus Jacksonbacteria
+d-FXL-2	       24	Nanoarchaeota
+d-FXL-2	        4	Candidatus Veblenbacteria
+e-LGL_1	 36251693	Proteobacteria
+e-LGL_1	 15962995	Actinobacteria
+e-LGL_1	 11758961	Verrucomicrobia
+e-LGL_1	  8581732	Bacteroidetes
+e-LGL_1	  3322183	Cyanobacteria
+e-LGL_1	   926722	Planctomycetes
+e-LGL_1	   426896	Firmicutes
+e-LGL_1	   185879	Gemmatimonadetes
+e-LGL_1	   169182	Acidobacteria
+e-LGL_1	    95700	Chloroflexi
+e-LGL_1	    69633	Euryarchaeota
+e-LGL_1	    40201	Spirochaetes
+e-LGL_1	    31449	Armatimonadetes
+e-LGL_1	    28601	Nitrospirae
+e-LGL_1	    26869	Candidatus Rokubacteria
+e-LGL_1	    23646	Lentisphaerae
+e-LGL_1	    23266	Chlorobi
+e-LGL_1	    22854	Ignavibacteriae
+e-LGL_1	    21415	Candidatus Omnitrophica
+e-LGL_1	    17147	Chlamydiae
+e-LGL_1	    14331	Elusimicrobia
+e-LGL_1	     9264	Balneolaeota
+e-LGL_1	     7914	Fusobacteria
+e-LGL_1	     7666	Candidatus Marinimicrobia
+e-LGL_1	     7320	Tenericutes
+e-LGL_1	     5455	Synergistetes
+e-LGL_1	     5367	Rhodothermaeota
+e-LGL_1	     5347	Candidatus Tectomicrobia
+e-LGL_1	     5313	Thermotogae
+e-LGL_1	     4984	Candidatus Melainabacteria
+e-LGL_1	     4891	Candidatus Peregrinibacteria
+e-LGL_1	     4829	Thaumarchaeota
+e-LGL_1	     4557	Fibrobacteres
+e-LGL_1	     4453	candidate division NC10
+e-LGL_1	     4441	Candidatus Kaiserbacteria
+e-LGL_1	     4384	Candidatus Nomurabacteria
+e-LGL_1	     4241	Crenarchaeota
+e-LGL_1	     4034	Candidatus Woesebacteria
+e-LGL_1	     3900	candidate division AD3
+e-LGL_1	     3893	Candidatus Magasanikbacteria
+e-LGL_1	     3888	Candidatus Aminicenantes
+e-LGL_1	     3821	Aquificae
+e-LGL_1	     3566	Candidatus Falkowbacteria
+e-LGL_1	     3434	Candidatus Wolfebacteria
+e-LGL_1	     3386	Candidatus Bathyarchaeota
+e-LGL_1	     3225	candidate division Zixibacteria
+e-LGL_1	     3172	Candidatus Cloacimonetes
+e-LGL_1	     3133	Nitrospinae
+e-LGL_1	     3123	Candidatus Uhrbacteria
+e-LGL_1	     3061	Kiritimatiellaeota
+e-LGL_1	     3018	Candidatus Thorarchaeota
+e-LGL_1	     3004	Candidatus Margulisbacteria
+e-LGL_1	     2825	Candidatus Saccharibacteria
+e-LGL_1	     2718	Candidatus Giovannonibacteria
+e-LGL_1	     2647	Candidatus Woesearchaeota
+e-LGL_1	     2532	Candidatus Roizmanbacteria
+e-LGL_1	     2487	Deferribacteres
+e-LGL_1	     2336	Candidatus Gottesmanbacteria
+e-LGL_1	     2323	Candidatus Hydrogenedentes
+e-LGL_1	     2244	Abditibacteriota
+e-LGL_1	     2176	Candidatus Moranbacteria
+e-LGL_1	     2168	candidate division WWE3
+e-LGL_1	     2101	Candidatus Yanofskybacteria
+e-LGL_1	     1939	Candidatus Handelsmanbacteria
+e-LGL_1	     1917	Thermodesulfobacteria
+e-LGL_1	     1819	Candidatus Taylorbacteria
+e-LGL_1	     1814	Candidatus Levybacteria
+e-LGL_1	     1805	Candidatus Riflebacteria
+e-LGL_1	     1600	Chrysiogenetes
+e-LGL_1	     1568	Candidatus Parcubacteria
+e-LGL_1	     1516	Calditrichaeota
+e-LGL_1	     1337	Candidatus Heimdallarchaeota
+e-LGL_1	     1327	Candidatus Eisenbacteria
+e-LGL_1	     1265	Candidatus Daviesbacteria
+e-LGL_1	     1247	Candidatus Schekmanbacteria
+e-LGL_1	     1183	Candidatus Kryptonia
+e-LGL_1	     1148	Candidatus Atribacteria
+e-LGL_1	     1108	Candidatus Staskawiczbacteria
+e-LGL_1	     1098	Candidatus Liptonbacteria
+e-LGL_1	     1090	Candidatus Gracilibacteria
+e-LGL_1	     1079	Candidatus Doudnabacteria
+e-LGL_1	     1046	Candidatus Harrisonbacteria
+e-LGL_1	     1011	Candidatus Kerfeldbacteria
+e-LGL_1	      965	Candidatus Buchananbacteria
+e-LGL_1	      962	Candidatus Berkelbacteria
+e-LGL_1	      890	Candidatus Micrarchaeota
+e-LGL_1	      879	Candidatus Zambryskibacteria
+e-LGL_1	      826	Candidatus Shapirobacteria
+e-LGL_1	      823	Candidatus Kapabacteria
+e-LGL_1	      823	Candidatus Raymondbacteria
+e-LGL_1	      784	Candidatus Dadabacteria
+e-LGL_1	      781	Candidatus Latescibacteria
+e-LGL_1	      773	Candidatus Colwellbacteria
+e-LGL_1	      762	Candidatus Nealsonbacteria
+e-LGL_1	      758	Candidatus Bipolaricaulota
+e-LGL_1	      756	Candidatus Desantisbacteria
+e-LGL_1	      755	Candidatus Lindowbacteria
+e-LGL_1	      716	Candidatus Pacebacteria
+e-LGL_1	      713	Candidatus Wildermuthbacteria
+e-LGL_1	      627	Candidatus Goldbacteria
+e-LGL_1	      609	Candidatus Aerophobetes
+e-LGL_1	      535	Candidatus Curtissbacteria
+e-LGL_1	      529	Candidatus Jorgensenbacteria
+e-LGL_1	      509	Candidatus Sungbacteria
+e-LGL_1	      508	Candidatus Wirthbacteria
+e-LGL_1	      501	Candidatus Firestonebacteria
+e-LGL_1	      499	Candidatus Amesbacteria
+e-LGL_1	      487	Candidatus Yonathbacteria
+e-LGL_1	      483	Caldiserica
+e-LGL_1	      473	Candidatus Wallbacteria
+e-LGL_1	      465	Candidatus Beckwithbacteria
+e-LGL_1	      463	Candidatus Portnoybacteria
+e-LGL_1	      439	Candidatus Ryanbacteria
+e-LGL_1	      438	Candidatus Fermentibacteria
+e-LGL_1	      435	Candidatus Marsarchaeota
+e-LGL_1	      391	Candidatus Glassbacteria
+e-LGL_1	      352	Candidatus Woykebacteria
+e-LGL_1	      339	Candidatus Campbellbacteria
+e-LGL_1	      328	Candidatus Delongbacteria
+e-LGL_1	      323	Candidatus Lloydbacteria
+e-LGL_1	      319	Dictyoglomi
+e-LGL_1	      319	Candidatus Adlerbacteria
+e-LGL_1	      312	Candidatus Azambacteria
+e-LGL_1	      307	candidate division CPR1
+e-LGL_1	      304	Candidatus Komeilibacteria
+e-LGL_1	      288	Candidatus Lokiarchaeota
+e-LGL_1	      285	Candidatus Edwardsbacteria
+e-LGL_1	      285	Candidatus Niyogibacteria
+e-LGL_1	      275	Candidatus Aenigmarchaeota
+e-LGL_1	      272	Candidatus Diapherotrites
+e-LGL_1	      269	Candidatus Fischerbacteria
+e-LGL_1	      258	Candidatus Kuenenbacteria
+e-LGL_1	      231	Candidatus Vogelbacteria
+e-LGL_1	      225	Candidatus Andersenbacteria
+e-LGL_1	      207	Candidatus Coatesbacteria
+e-LGL_1	      196	Candidatus Collierbacteria
+e-LGL_1	      196	Candidatus Spechtbacteria
+e-LGL_1	      192	Candidatus Odinarchaeota
+e-LGL_1	      174	candidate division CPR2
+e-LGL_1	      167	Candidatus Terrybacteria
+e-LGL_1	      153	Candidatus Tagabacteria
+e-LGL_1	      151	Candidatus Chisholmbacteria
+e-LGL_1	      139	Candidatus Blackburnbacteria
+e-LGL_1	      138	Coprothermobacterota
+e-LGL_1	      118	Candidatus Korarchaeota
+e-LGL_1	      118	Candidatus Microgenomates
+e-LGL_1	      118	Candidatus Abawacabacteria
+e-LGL_1	      116	Candidatus Fraserbacteria
+e-LGL_1	      110	Candidatus Parvarchaeota
+e-LGL_1	       82	candidate division CPR3
+e-LGL_1	       48	Candidatus Poribacteria
+e-LGL_1	       43	Nanoarchaeota
+e-LGL_1	        8	Candidatus Jacksonbacteria
+e-LGL_1	        2	Candidatus Brennerbacteria
+e-LGL_2	 26007633	Actinobacteria
+e-LGL_2	 25656421	Proteobacteria
+e-LGL_2	 10386165	Bacteroidetes
+e-LGL_2	  9841737	Cyanobacteria
+e-LGL_2	  5381721	Verrucomicrobia
+e-LGL_2	  1214104	Planctomycetes
+e-LGL_2	   438610	Firmicutes
+e-LGL_2	   183194	Acidobacteria
+e-LGL_2	   113753	Chloroflexi
+e-LGL_2	    62173	Gemmatimonadetes
+e-LGL_2	    43997	Euryarchaeota
+e-LGL_2	    39484	Spirochaetes
+e-LGL_2	    38591	Armatimonadetes
+e-LGL_2	    27649	Lentisphaerae
+e-LGL_2	    26320	Candidatus Rokubacteria
+e-LGL_2	    24361	Nitrospirae
+e-LGL_2	    24057	Chlorobi
+e-LGL_2	    23074	Ignavibacteriae
+e-LGL_2	    15356	Candidatus Omnitrophica
+e-LGL_2	    14969	Chlamydiae
+e-LGL_2	    13909	Elusimicrobia
+e-LGL_2	     9599	Balneolaeota
+e-LGL_2	     6441	Rhodothermaeota
+e-LGL_2	     6138	Candidatus Saccharibacteria
+e-LGL_2	     6107	Fusobacteria
+e-LGL_2	     5310	Crenarchaeota
+e-LGL_2	     5167	Candidatus Tectomicrobia
+e-LGL_2	     4882	Synergistetes
+e-LGL_2	     4836	Candidatus Peregrinibacteria
+e-LGL_2	     4679	Tenericutes
+e-LGL_2	     4502	candidate division NC10
+e-LGL_2	     4465	Candidatus Aminicenantes
+e-LGL_2	     4296	Aquificae
+e-LGL_2	     4286	Thermotogae
+e-LGL_2	     4268	Candidatus Marinimicrobia
+e-LGL_2	     4087	Candidatus Kaiserbacteria
+e-LGL_2	     4019	Candidatus Melainabacteria
+e-LGL_2	     3799	Thaumarchaeota
+e-LGL_2	     3565	Nitrospinae
+e-LGL_2	     3501	Candidatus Cloacimonetes
+e-LGL_2	     3349	Kiritimatiellaeota
+e-LGL_2	     3307	Candidatus Magasanikbacteria
+e-LGL_2	     3268	Candidatus Uhrbacteria
+e-LGL_2	     3078	Fibrobacteres
+e-LGL_2	     3051	candidate division AD3
+e-LGL_2	     2840	candidate division Zixibacteria
+e-LGL_2	     2441	Candidatus Margulisbacteria
+e-LGL_2	     2319	Candidatus Hydrogenedentes
+e-LGL_2	     2044	Deferribacteres
+e-LGL_2	     1856	Candidatus Nomurabacteria
+e-LGL_2	     1816	Calditrichaeota
+e-LGL_2	     1765	Candidatus Kryptonia
+e-LGL_2	     1672	Candidatus Falkowbacteria
+e-LGL_2	     1634	Candidatus Roizmanbacteria
+e-LGL_2	     1633	Candidatus Yanofskybacteria
+e-LGL_2	     1630	Candidatus Gottesmanbacteria
+e-LGL_2	     1556	Candidatus Thorarchaeota
+e-LGL_2	     1552	Candidatus Kapabacteria
+e-LGL_2	     1531	Candidatus Riflebacteria
+e-LGL_2	     1440	Abditibacteriota
+e-LGL_2	     1434	Candidatus Handelsmanbacteria
+e-LGL_2	     1396	Candidatus Moranbacteria
+e-LGL_2	     1292	Thermodesulfobacteria
+e-LGL_2	     1194	Candidatus Atribacteria
+e-LGL_2	     1186	Candidatus Woesebacteria
+e-LGL_2	     1170	Candidatus Bathyarchaeota
+e-LGL_2	     1153	Candidatus Schekmanbacteria
+e-LGL_2	     1075	Candidatus Giovannonibacteria
+e-LGL_2	     1035	Candidatus Wolfebacteria
+e-LGL_2	     1015	Candidatus Taylorbacteria
+e-LGL_2	     1004	Candidatus Woesearchaeota
+e-LGL_2	      998	Candidatus Parcubacteria
+e-LGL_2	      955	Candidatus Heimdallarchaeota
+e-LGL_2	      944	Candidatus Doudnabacteria
+e-LGL_2	      938	Candidatus Daviesbacteria
+e-LGL_2	      933	Chrysiogenetes
+e-LGL_2	      924	candidate division WWE3
+e-LGL_2	      907	Candidatus Gracilibacteria
+e-LGL_2	      901	Candidatus Eisenbacteria
+e-LGL_2	      889	Candidatus Lindowbacteria
+e-LGL_2	      879	Candidatus Levybacteria
+e-LGL_2	      842	Candidatus Pacebacteria
+e-LGL_2	      778	Candidatus Buchananbacteria
+e-LGL_2	      775	Candidatus Latescibacteria
+e-LGL_2	      767	Candidatus Portnoybacteria
+e-LGL_2	      760	Candidatus Bipolaricaulota
+e-LGL_2	      715	Candidatus Desantisbacteria
+e-LGL_2	      684	Candidatus Glassbacteria
+e-LGL_2	      651	Candidatus Wildermuthbacteria
+e-LGL_2	      645	Candidatus Dadabacteria
+e-LGL_2	      626	Candidatus Kerfeldbacteria
+e-LGL_2	      616	Candidatus Wallbacteria
+e-LGL_2	      598	Candidatus Staskawiczbacteria
+e-LGL_2	      559	Candidatus Micrarchaeota
+e-LGL_2	      547	Candidatus Berkelbacteria
+e-LGL_2	      545	Candidatus Edwardsbacteria
+e-LGL_2	      534	Candidatus Shapirobacteria
+e-LGL_2	      528	Candidatus Nealsonbacteria
+e-LGL_2	      523	Candidatus Sungbacteria
+e-LGL_2	      506	Candidatus Raymondbacteria
+e-LGL_2	      505	Candidatus Azambacteria
+e-LGL_2	      466	Candidatus Beckwithbacteria
+e-LGL_2	      436	Candidatus Zambryskibacteria
+e-LGL_2	      434	Candidatus Curtissbacteria
+e-LGL_2	      378	Caldiserica
+e-LGL_2	      377	Candidatus Spechtbacteria
+e-LGL_2	      369	Candidatus Harrisonbacteria
+e-LGL_2	      356	Candidatus Firestonebacteria
+e-LGL_2	      354	Candidatus Campbellbacteria
+e-LGL_2	      351	Candidatus Fischerbacteria
+e-LGL_2	      343	Candidatus Komeilibacteria
+e-LGL_2	      340	Candidatus Fermentibacteria
+e-LGL_2	      311	Candidatus Collierbacteria
+e-LGL_2	      298	Candidatus Jorgensenbacteria
+e-LGL_2	      276	Candidatus Adlerbacteria
+e-LGL_2	      268	Candidatus Kuenenbacteria
+e-LGL_2	      261	Candidatus Lokiarchaeota
+e-LGL_2	      252	Candidatus Aerophobetes
+e-LGL_2	      244	Candidatus Terrybacteria
+e-LGL_2	      244	Candidatus Goldbacteria
+e-LGL_2	      243	Candidatus Vogelbacteria
+e-LGL_2	      237	Candidatus Liptonbacteria
+e-LGL_2	      229	Candidatus Lloydbacteria
+e-LGL_2	      228	Candidatus Yonathbacteria
+e-LGL_2	      227	Candidatus Marsarchaeota
+e-LGL_2	      226	Candidatus Delongbacteria
+e-LGL_2	      218	Dictyoglomi
+e-LGL_2	      206	candidate division CPR2
+e-LGL_2	      205	Candidatus Wirthbacteria
+e-LGL_2	      202	Candidatus Korarchaeota
+e-LGL_2	      201	Candidatus Colwellbacteria
+e-LGL_2	      200	Candidatus Woykebacteria
+e-LGL_2	      195	Candidatus Ryanbacteria
+e-LGL_2	      185	Candidatus Coatesbacteria
+e-LGL_2	      175	candidate division CPR1
+e-LGL_2	      170	Candidatus Amesbacteria
+e-LGL_2	      158	Candidatus Microgenomates
+e-LGL_2	      158	Candidatus Diapherotrites
+e-LGL_2	      156	Candidatus Fraserbacteria
+e-LGL_2	      145	Candidatus Abawacabacteria
+e-LGL_2	      129	Candidatus Niyogibacteria
+e-LGL_2	      124	Candidatus Andersenbacteria
+e-LGL_2	      122	Candidatus Blackburnbacteria
+e-LGL_2	      122	Candidatus Tagabacteria
+e-LGL_2	      116	Coprothermobacterota
+e-LGL_2	      115	Candidatus Chisholmbacteria
+e-LGL_2	       78	Candidatus Aenigmarchaeota
+e-LGL_2	       75	Candidatus Poribacteria
+e-LGL_2	       74	Candidatus Odinarchaeota
+e-LGL_2	       73	Candidatus Parvarchaeota
+e-LGL_2	       64	candidate division CPR3
+e-LGL_2	        9	Candidatus Jacksonbacteria
+e-LGL_2	        8	Candidatus Brennerbacteria
+e-LGL_2	        2	Nanoarchaeota
