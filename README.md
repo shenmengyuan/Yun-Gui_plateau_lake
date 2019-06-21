@@ -1,4 +1,4 @@
-# Microbial diversity and metabolic potential at different trophic status freshwater lake ecosystems
+# The analysis pipeline to metagenome of each lake samples at different trophic levels
 
 > The pipeline is developed by  by Mengyuan Shen ([mengyuanshen@126.com](mailto:mengyuanshen@126.com)). For questions and comments, please contact mengyuan or submit an issue on github.
 
