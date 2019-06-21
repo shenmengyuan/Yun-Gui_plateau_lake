@@ -2,6 +2,10 @@
 
 > The pipeline is developed by  by Mengyuan Shen ([mengyuanshen@126.com](mailto:mengyuanshen@126.com)). For questions and comments, please contact mengyuan or submit an issue on github.
 
+[TOC]
+
+![An overview of analysis pipeline to metagenome](Datasets/An_overview_of_analysis_pipeline_to_metagenome.png)
+
 ### 1 Building work environment
 
 #### 1.1 The software need to install
@@ -40,8 +44,7 @@ $megahit -1 DC_R1.fq.gz,DC-1_R1.fq.gz \
          --presets meta-large -o DC_MEGAHIT_two_years -t 15 --out-prefix DCL --min-contig-len 500 \
          --continue
 ```
-### 3 CDS abundance 
-- CDS predict
+### 3 CDS finding
 ```shell
 # $ ~/biosoft/prodigal.linux -v
 # Prodigal V2.6.3: February, 2016
@@ -53,6 +56,7 @@ contig=~/WORK/Yun_Gui_Lake/assembly/${lake}_MEGAHIT_two_years/${lake}.contigs.fa
 $anvi_script_reformat_fasta $contig -o ${name}_contig.fa --simplify-names --prefix ${name}
 $prodigal -a ${name}_gene.faa -d ${name}_gene.fna -f gff -o ${name}_gene.gff -p meta -i ${name}_contig.fa
 ```
+### 4 CDS abundance 
 - mapping
 ```shell
 ## Software
@@ -104,7 +108,7 @@ NUM_THREADS=50
 $diamond blastp -p $NUM_THREADS -d $nr -o ${name}_gene_nr.daa -q ${name}_gene.faa -f 100 -e 0.00001 --sensitive --top 3
 ```
 
-### 4 Taxonomic Analysis
+### 5 Taxonomic Analysis
 
 ```shell
 nodes=~/biosoft/kaiju/bin/kaijudb/nodes.dmp
@@ -122,9 +126,15 @@ DCL-1_nr_${j}_kaiju.out.summary -u -p)
 done
 ```
 
-### 5 Functional Analysis
+### 6 Functional Analysis
 ```shell
 seqkit split2 -p 6 D_gene.faa
 # Upload the split file to https://www.kegg.jp/ghostkoala/
 ```
+
+### 7 Figures  scripts
+
+- Figure 1. Structure and composition of the microbial communities along with the different trophic types. ([Data:kaiju_all_lake_phylum_count.txt](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Datasets/kaiju_all_lake_phylum_count.txt),[Scripts](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Scripts/Figure_1.R))
+- Figure 2. Metabolism function and composition of the microbial communities along with the different habitat types ([Data1:gene_TPM_name_filter_190506.csv](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Datasets/gene_TPM_name_filter_190506.csv),[Data2:gene.anno.txt](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Datasets/gene.anno.txt),[Data3:group.txt](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Datasets/group.txt),[Scripts](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Scripts/Figure_2.R))
+- Figure 3. Environmental drivers of microbial community composition.  ([Data:kaiju_all_lake_phylum_count.txt](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Datasets/kaiju_all_lake_phylum_count.txt),[Data2:env.txt](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Datasets/env.txt), ,[Scripts](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Scripts/Figure_3.R))
 

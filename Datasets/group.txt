@@ -1,0 +1,11 @@
+sample	group
+DCL-1	Group I
+DCL-2	Group I
+XYL-1	Group I
+XYL-2	Group I
+EL-1	Group II
+EL-2	Group II
+FXL-1	Group II
+FXL-2	Group II
+LGL-1	Group II
+LGL-2	Group II
