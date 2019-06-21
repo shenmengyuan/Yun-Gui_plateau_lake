@@ -2,7 +2,7 @@
 
 > The pipeline is developed by  by Mengyuan Shen ([mengyuanshen@126.com](mailto:mengyuanshen@126.com)). For questions and comments, please contact mengyuan or submit an issue on github.
 
-[TOC]
+
 
 ![An overview of analysis pipeline to metagenome](Datasets/An_overview_of_analysis_pipeline_to_metagenome.png)
 
