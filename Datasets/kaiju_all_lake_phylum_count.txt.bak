@@ -1,15 +1,5 @@
 a-DCL-1	 61314977	Cyanobacteria
-a-DCL-1	  6152309	Alphaproteobacteria
-a-DCL-1	  3778875	Betaproteobacteria
-a-DCL-1	  1285912	Gammaproteobacteria
-a-DCL-1	   378867	Deltaproteobacteria
-a-DCL-1	   128190	Oligoflexia
-a-DCL-1	    60200	Hydrogenophilalia
-a-DCL-1	    31751	Acidithiobacillia
-a-DCL-1	    21035	Epsilonproteobacteria
-a-DCL-1	     8413	Candidatus Muproteobacteria
-a-DCL-1	     4641	Zetaproteobacteria
-a-DCL-1	      628	Candidatus Lambdaproteobacteria
+a-DCL-1	 12200013	Proteobacteria
 a-DCL-1	  2319693	Bacteroidetes
 a-DCL-1	   333376	Actinobacteria
 a-DCL-1	   328951	Planctomycetes
@@ -164,17 +154,7 @@ a-DCL-1	       17	Candidatus Jacksonbacteria
 a-DCL-1	        9	Candidatus Veblenbacteria
 a-DCL-1	        7	Candidatus Poribacteria
 a-DCL-2	 93220444	Cyanobacteria
-a-DCL-2	  7387125	Betaproteobacteria
-a-DCL-2	  5239247	Alphaproteobacteria
-a-DCL-2	  1952604	Gammaproteobacteria
-a-DCL-2	   607860	Deltaproteobacteria
-a-DCL-2	   328423	Oligoflexia
-a-DCL-2	    37010	Hydrogenophilalia
-a-DCL-2	    34090	Epsilonproteobacteria
-a-DCL-2	    22249	Acidithiobacillia
-a-DCL-2	    15288	Candidatus Muproteobacteria
-a-DCL-2	     8744	Zetaproteobacteria
-a-DCL-2	      945	Candidatus Lambdaproteobacteria
+a-DCL-2	 16205598	Proteobacteria
 a-DCL-2	  8034416	Bacteroidetes
 a-DCL-2	  6197434	Actinobacteria
 a-DCL-2	  3020301	Planctomycetes
@@ -329,17 +309,7 @@ a-DCL-2	       15	Candidatus Veblenbacteria
 a-DCL-2	        9	Candidatus Jacksonbacteria
 a-DCL-2	        7	Nanoarchaeota
 b-XYL-1	 26046402	Cyanobacteria
-b-XYL-1	  8252972	Alphaproteobacteria
-b-XYL-1	  5440909	Betaproteobacteria
-b-XYL-1	  1321462	Gammaproteobacteria
-b-XYL-1	   306046	Deltaproteobacteria
-b-XYL-1	    75717	Oligoflexia
-b-XYL-1	    42049	Hydrogenophilalia
-b-XYL-1	    25127	Acidithiobacillia
-b-XYL-1	    21154	Epsilonproteobacteria
-b-XYL-1	     8821	Candidatus Muproteobacteria
-b-XYL-1	     4908	Zetaproteobacteria
-b-XYL-1	      603	Candidatus Lambdaproteobacteria
+b-XYL-1	 15915679	Proteobacteria
 b-XYL-1	  3944495	Bacteroidetes
 b-XYL-1	   981310	Firmicutes
 b-XYL-1	   659637	Gemmatimonadetes
@@ -493,17 +463,7 @@ b-XYL-1	        7	Candidatus Brennerbacteria
 b-XYL-1	        5	Candidatus Poribacteria
 b-XYL-1	        1	Candidatus Jacksonbacteria
 b-XYL-2	157171993	Cyanobacteria
-b-XYL-2	  4840335	Alphaproteobacteria
-b-XYL-2	  3006735	Betaproteobacteria
-b-XYL-2	  1130119	Gammaproteobacteria
-b-XYL-2	   197233	Deltaproteobacteria
-b-XYL-2	    53690	Oligoflexia
-b-XYL-2	    18019	Epsilonproteobacteria
-b-XYL-2	    14572	Hydrogenophilalia
-b-XYL-2	    11428	Acidithiobacillia
-b-XYL-2	     4018	Candidatus Muproteobacteria
-b-XYL-2	     2952	Zetaproteobacteria
-b-XYL-2	      529	Candidatus Lambdaproteobacteria
+b-XYL-2	  9556218	Proteobacteria
 b-XYL-2	  3497890	Bacteroidetes
 b-XYL-2	  2972518	Actinobacteria
 b-XYL-2	   923037	Planctomycetes
@@ -657,17 +617,7 @@ b-XYL-2	        9	Candidatus Jacksonbacteria
 b-XYL-2	        7	Candidatus Parvarchaeota
 b-XYL-2	        5	Nanoarchaeota
 b-XYL-2	        2	Candidatus Veblenbacteria
-c-EL-1	 10737345	Betaproteobacteria
-c-EL-1	  6939590	Alphaproteobacteria
-c-EL-1	  5474940	Gammaproteobacteria
-c-EL-1	  1135542	Deltaproteobacteria
-c-EL-1	    88084	Oligoflexia
-c-EL-1	    46521	Epsilonproteobacteria
-c-EL-1	    43654	Hydrogenophilalia
-c-EL-1	    19110	Acidithiobacillia
-c-EL-1	     9263	Zetaproteobacteria
-c-EL-1	     9144	Candidatus Muproteobacteria
-c-EL-1	     1231	Candidatus Lambdaproteobacteria
+c-EL-1	 26088887	Proteobacteria
 c-EL-1	 12382675	Actinobacteria
 c-EL-1	  5099213	Cyanobacteria
 c-EL-1	  4866776	Planctomycetes
@@ -822,17 +772,7 @@ c-EL-1	      104	Candidatus Parvarchaeota
 c-EL-1	       39	Candidatus Veblenbacteria
 c-EL-1	       38	Candidatus Brennerbacteria
 c-EL-1	       26	Candidatus Jacksonbacteria
-c-EL-2	 10671582	Betaproteobacteria
-c-EL-2	  7875428	Alphaproteobacteria
-c-EL-2	  2854948	Gammaproteobacteria
-c-EL-2	   809327	Deltaproteobacteria
-c-EL-2	   114559	Oligoflexia
-c-EL-2	    50974	Epsilonproteobacteria
-c-EL-2	    40633	Hydrogenophilalia
-c-EL-2	    26632	Acidithiobacillia
-c-EL-2	    13430	Candidatus Muproteobacteria
-c-EL-2	    12182	Zetaproteobacteria
-c-EL-2	     1990	Candidatus Lambdaproteobacteria
+c-EL-2	 23208201	Proteobacteria
 c-EL-2	 22112859	Actinobacteria
 c-EL-2	 16558761	Cyanobacteria
 c-EL-2	  7365877	Bacteroidetes
@@ -987,17 +927,7 @@ c-EL-2	       84	Candidatus Parvarchaeota
 c-EL-2	       46	Nanoarchaeota
 c-EL-2	       32	Candidatus Jacksonbacteria
 c-EL-2	       18	Candidatus Veblenbacteria
-d-FXL-1	 13657006	Alphaproteobacteria
-d-FXL-1	 12755388	Betaproteobacteria
-d-FXL-1	  1555579	Gammaproteobacteria
-d-FXL-1	   232359	Deltaproteobacteria
-d-FXL-1	    37595	Epsilonproteobacteria
-d-FXL-1	    29463	Oligoflexia
-d-FXL-1	    22039	Hydrogenophilalia
-d-FXL-1	    16558	Acidithiobacillia
-d-FXL-1	     7059	Zetaproteobacteria
-d-FXL-1	     6685	Candidatus Muproteobacteria
-d-FXL-1	     1189	Candidatus Lambdaproteobacteria
+d-FXL-1	 28800519	Proteobacteria
 d-FXL-1	 26673521	Actinobacteria
 d-FXL-1	 12326926	Bacteroidetes
 d-FXL-1	  7571480	Verrucomicrobia
@@ -1152,17 +1082,7 @@ d-FXL-1	       50	Candidatus Fraserbacteria
 d-FXL-1	       38	Candidatus Brennerbacteria
 d-FXL-1	       25	Candidatus Poribacteria
 d-FXL-1	        3	Candidatus Veblenbacteria
-d-FXL-2	  5638918	Alphaproteobacteria
-d-FXL-2	  5613020	Betaproteobacteria
-d-FXL-2	  1996187	Gammaproteobacteria
-d-FXL-2	   349877	Deltaproteobacteria
-d-FXL-2	    56533	Oligoflexia
-d-FXL-2	    26090	Epsilonproteobacteria
-d-FXL-2	    20290	Hydrogenophilalia
-d-FXL-2	    12114	Acidithiobacillia
-d-FXL-2	     6726	Zetaproteobacteria
-d-FXL-2	     6513	Candidatus Muproteobacteria
-d-FXL-2	     1072	Candidatus Lambdaproteobacteria
+d-FXL-2	 14204215	Proteobacteria
 d-FXL-2	 13725938	Actinobacteria
 d-FXL-2	  6483331	Cyanobacteria
 d-FXL-2	  3372730	Bacteroidetes
@@ -1317,17 +1237,7 @@ d-FXL-2	       47	Candidatus Parvarchaeota
 d-FXL-2	       40	Candidatus Jacksonbacteria
 d-FXL-2	       24	Nanoarchaeota
 d-FXL-2	        4	Candidatus Veblenbacteria
-e-LGL_1	 20524711	Alphaproteobacteria
-e-LGL_1	 13346197	Betaproteobacteria
-e-LGL_1	  1322948	Gammaproteobacteria
-e-LGL_1	   294066	Deltaproteobacteria
-e-LGL_1	   146329	Oligoflexia
-e-LGL_1	    39385	Epsilonproteobacteria
-e-LGL_1	    12306	Hydrogenophilalia
-e-LGL_1	     9715	Acidithiobacillia
-e-LGL_1	     7439	Zetaproteobacteria
-e-LGL_1	     2896	Candidatus Muproteobacteria
-e-LGL_1	      780	Candidatus Lambdaproteobacteria
+e-LGL_1	 36251693	Proteobacteria
 e-LGL_1	 15962995	Actinobacteria
 e-LGL_1	 11758961	Verrucomicrobia
 e-LGL_1	  8581732	Bacteroidetes
@@ -1482,17 +1392,7 @@ e-LGL_1	       43	Nanoarchaeota
 e-LGL_1	        8	Candidatus Jacksonbacteria
 e-LGL_1	        2	Candidatus Brennerbacteria
 e-LGL_2	 26007633	Actinobacteria
-e-LGL_2	 12589806	Alphaproteobacteria
-e-LGL_2	 10571348	Betaproteobacteria
-e-LGL_2	  1659380	Gammaproteobacteria
-e-LGL_2	   233811	Deltaproteobacteria
-e-LGL_2	    28359	Oligoflexia
-e-LGL_2	    25984	Epsilonproteobacteria
-e-LGL_2	    11572	Hydrogenophilalia
-e-LGL_2	     8470	Acidithiobacillia
-e-LGL_2	     5900	Zetaproteobacteria
-e-LGL_2	     3814	Candidatus Muproteobacteria
-e-LGL_2	     1023	Candidatus Lambdaproteobacteria
+e-LGL_2	 25656421	Proteobacteria
 e-LGL_2	 10386165	Bacteroidetes
 e-LGL_2	  9841737	Cyanobacteria
 e-LGL_2	  5381721	Verrucomicrobia

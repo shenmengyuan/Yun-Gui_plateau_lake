@@ -1,9 +1,10 @@
 ## =======================================================================================
 ##
 ##   The Impacts of Different Trophic Status on Community Structure 
-##	 and Metabolic Potential of Microbiota in the Lakes of Yun-Gui plateau of China
+##	 and Metabolic Potential of Planktonic Microbiota in Lakes on Yun-Gui plateau of China
 ##
-##   *Figure 1. Structure and composition of the microbial communities along with the different trophic types
+##   *Figure 1. Taxonomic structure and diversity of planktonic microbial communities in 
+##              lakes exhibiting different trophic status.
 ##
 ##  |  2019-05-09
 ## 
@@ -22,6 +23,7 @@ library(RColorBrewer)
 library(ggsci)
 library(dendsort)
 library(xlsx)
+library(ggrepel)
 
 # Loading data ----------------------------------------------------------------
 ## kaiju phylum
@@ -69,8 +71,7 @@ p <- ggplot(phylum_top10_new, aes(variable, 100 * value, fill = Taxonomy)) +
   theme(legend.title = element_blank()) + 
   theme_bw()+theme(panel.grid=element_blank())
 p
-ggsave(filename = "../图表/raw_20190509/001_累积柱状图_two_color_add.pdf",p,
-       width = 6,height = 4)
+ggsave(filename = "barplot_two_color_add.pdf",p,width = 6,height = 4)
 
 # Hierarchical clustering -----------------------------------------------------------------
 data <- kaiju %>% t() %>% decostand(method = "hellinger")
@@ -106,4 +107,12 @@ p_phylum <- ggplot(points, aes(x=PC1, y=PC2, color=group)) +
   scale_fill_manual(values = cols) +
   geom_text_repel(aes(PC1,PC2,label=row.names(points),color=group_2),show.legend=F)
 p_phylum
+ggsave(file = "Phylum_PcoA_ellipse_0.75.pdf",p_phylum,width=4, height=4)
+
+# PERMANOVA  -------------------------------------------------------------
+group <- read.delim('../Datasets/group.txt', sep = '\t', stringsAsFactors = FALSE)
+dis_phylum <- vegdist(kaiju, method = 'bray')
+adonis_result_dis_phylum <- adonis(dis_phylum~group, group, permutations = 9999) 
+adonis_result_dis_phylum
+
 

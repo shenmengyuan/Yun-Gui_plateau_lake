@@ -1,9 +1,9 @@
 ## =======================================================================================
 ##
 ##   The Impacts of Different Trophic Status on Community Structure 
-##	 and Metabolic Potential of Microbiota in the Lakes of Yun-Gui plateau of China
+##	 and Metabolic Potential of Planktonic Microbiota in Lakes on Yun-Gui plateau of China
 ##
-##   *Figure 2. Metabolism function and composition of the microbial communities along with the different habitat types
+##   *Figure 2. Functional structure of planktonic microbial communities in lakes of different trophic status.
 ##
 ##  |  2019-05-07
 ## 
@@ -15,6 +15,7 @@
 library(tidyverse)
 library(pheatmap)
 library(vegan)
+library(ggrepel)
 
 # Loading data ----------------------------------------------------------------
 kegg_TPM <- read.csv(file = "../Datasets/gene_TPM_name_filter_190506.csv",stringsAsFactors = F,header = T)

@@ -1,4 +1,4 @@
-# The analysis pipeline to metagenome of each lake samples at different trophic levels
+# The Analysis Pipeline to Metagenome of Planktonic Microbiota in Lakes at Different Trophic Levels
 
 > The pipeline is developed by  by Mengyuan Shen ([mengyuanshen@126.com](mailto:mengyuanshen@126.com)). For questions and comments, please contact mengyuan or submit an issue on github.
 
