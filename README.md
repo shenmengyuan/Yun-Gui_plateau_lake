@@ -30,8 +30,6 @@ axel ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/nr.gz.md5
 axel http://ab.inf.uni-tuebingen.de/data/software/megan6/download/prot_acc2tax-Mar2018X1.abin.zip
 
 ## kaiju database
-# Representative genomes from proGenomes
-makeDB.sh -p -v
 # Non-redundant protein database nr
 makeDB.sh -n 
 ```
@@ -137,4 +135,8 @@ seqkit split2 -p 6 D_gene.faa
 - Figure 1. Structure and composition of the microbial communities along with the different trophic types. ([Data:kaiju_all_lake_phylum_count.txt](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Datasets/kaiju_all_lake_phylum_count.txt),[Scripts](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Scripts/Figure_1.R))
 - Figure 2. Metabolism function and composition of the microbial communities along with the different habitat types ([Data1:gene_TPM_name_filter_190506.csv](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Datasets/gene_TPM_name_filter_190506.csv),[Data2:gene.anno.txt](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Datasets/gene.anno.txt),[Data3:group.txt](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Datasets/group.txt),[Scripts](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Scripts/Figure_2.R))
 - Figure 3. Environmental drivers of microbial community composition.  ([Data:kaiju_all_lake_phylum_count.txt](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Datasets/kaiju_all_lake_phylum_count.txt),[Data2:env.txt](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Datasets/env.txt), ,[Scripts](https://raw.githubusercontent.com/shenmengyuan/Yun-Gui_plateau_lake/master/Scripts/Figure_3.R))
+
+### Cite
+
+Shen M, Li Q, Ren M, Lin Y, Wang J, Chen L, Li T and Zhao J. (2019) Trophic Status is Associated withCommunity Structure and Metabolic Potential of Planktonic Microbiota in Plateau Lakes. Front.Microbiol. 10:2560. doi:10.3389/fmicb.2019.02560
 
