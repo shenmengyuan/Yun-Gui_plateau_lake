@@ -140,5 +140,5 @@ seqkit split2 -p 6 D_gene.faa
 
 If you use this analysis pipeline, please cite:
 
-> Shen M, Li Q, Ren M, Lin Y, Wang J, Chen L, Li T and Zhao J. (2019) Trophic Status is Associated withCommunity Structure and Metabolic Potential of Planktonic Microbiota in Plateau Lakes. Front.Microbiol. 10:2560. doi:10.3389/fmicb.2019.02560
+> Shen M, Li Q, Ren M, Lin Y, Wang J, Chen L, Li T and Zhao J. (2019) Trophic Status is Associated with Community Structure and Metabolic Potential of Planktonic Microbiota in Plateau Lakes. Front.Microbiol. 10:2560. doi:10.3389/fmicb.2019.02560
 
